@@ -1,0 +1,11 @@
+.menu
+    transform: translateX(0) !important
+    li
+        @include media-breakpoint-height-up(880px)
+            font-size: px2rem(65)
+        @include media-breakpoint-height-down(880px)
+            font-size: px2rem(55)
+        @include media-breakpoint-height-down(800px)
+            font-size: px2rem(45)
+        @include media-breakpoint-height-down(700px)
+            font-size: px2rem(36) 
