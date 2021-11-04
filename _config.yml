@@ -45,7 +45,7 @@ collections:
     output: true
   works:
     output: true
-    permalink: /metiers/:slug
+    permalink: /:slug
   members:
     output: true
     permalink: /membres/:slug
