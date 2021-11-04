@@ -1,0 +1,33 @@
+.quote
+    @include grid(12)
+    align-items: baseline
+    h2
+        grid-column: 1/5
+    picture
+        align-self: self-start
+        grid-column: 5/7
+    quote
+        font-size: px2rem(20)
+        font-style: italic
+        grid-column: 7/12
+        line-height: px2rem(32)
+        padding: 0 $grid-gutter * 3
+        position: relative
+        @include media-breakpoint-up(lg)
+            font-size: px2rem(25)
+            line-height: px2rem(45)
+        p
+            margin-bottom: 0
+        &::before, &::after
+            display: block
+            font-size: px2rem(50)
+            position: absolute
+            text-align: center
+            top: 50%
+            width: 35px
+        &::before
+            content: '“'
+            left: -12px
+        &::after
+            content: '”'
+            right: 0

@@ -1,0 +1,40 @@
+media_queries:
+  mobile: 'max-width: 576px'
+  tablet: 'min-width: 576px'
+  laptop: 'min-width: 992px'
+  desktop: 'min-width: 1200px'
+
+presets:
+  default:
+    formats: [webp, original] # Order matters!
+    widths: [300, 600, 1000, 1400, 2000]
+    dimension_attributes: true
+
+  person:
+    crop: '1:1'
+    dimension_attributes: true
+    formats: [webp, original]
+
+  quote:
+    crop: '1:1'
+    widths: [182]
+    dimension_attributes: true
+    formats: [webp, original]
+
+  owl:
+    formats: [webp, original]
+    widths: [153, 208, 298, 306, 316, 355, 596]
+    dimension_attributes: true
+    sizes:
+      mobile: calc(50vw - 60px)
+      tablet: 50vw
+      desktop: calc(33vw - 100px)
+
+  owl_footer:
+    formats: [webp, original]
+    widths: [153, 208, 298, 306, 316, 355, 596]
+    dimension_attributes: true
+    sizes:
+      mobile: 100px
+      tablet: 40vw
+      desktop: 15vw

@@ -1,0 +1,57 @@
+url: https://reseau.noesya.coop
+title: Réseau Noesya
+subdomain: Réseau
+lang: fr
+
+theme: "jekyll-theme-noesya"
+options:
+  menu_burger: true
+  hover_navigation_links: true
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "members"
+    values:
+      layout: "member"
+
+collections:
+  pages:
+    output: true
+  members:
+    output: true
+    permalink: /membres/:slug
+
+plugins:
+  - jekyll-minifier
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+  load_paths:
+      - _sass
+      - node_modules
+
+jekyll-minifier:
+  remove_spaces_inside_tags: true
+  remove_multi_spaces: true
+  remove_intertag_spaces: false
+  remove_comments: true
+  compress_css: false
+  compress_javascript: true
+
+picture:
+  ignore_missing_images: true

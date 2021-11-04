@@ -1,0 +1,12 @@
+sites:
+    - title: site
+      url: https://www.noesya.coop
+    - title: gouvernance
+      url: https://gouvernance.noesya.coop
+    - title: réseau
+      url: https://reseau.noesya.coop
+    - title: histoires
+    - title: stack
+    - title: méthode
+    - title: works
+    - title: labs

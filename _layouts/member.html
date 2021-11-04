@@ -1,0 +1,19 @@
+---
+layout: default
+class: member
+---
+
+<header>
+  <div>
+    <p class="h1">Personne</p>
+    <h1>{{page.title}}</h1>
+  </div>
+  <div>
+    {% picture person "{{ page.portrait }}" --img alt="{{ page.title }}" title="{{ page.title }}" %}
+  </div>
+</header>
+
+{% include sections-with-notes.html %}
+{% include quote.html %}
+{% include navigation-between-pages.html %}
+

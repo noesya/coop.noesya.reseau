@@ -1,0 +1,19 @@
+---
+layout: page
+class: work
+---
+
+<div class="members">
+    {% assign members = site.members | sort: 'last_name' %}
+    {% for member in members %}
+        {% if member.works contains page.work %}
+            <article>
+                <a href="{{ member.url }}">
+                {% picture member "{{ member.portrait }}" --img alt="{{ member.title }}" title="{{ member.title }}" %}
+                <h2>{{ member.title }}</h2>
+                <p><i>{{ member.expertise }}</i></p>
+                </a>
+            </article>
+        {% endif %}
+    {% endfor %}
+</div>

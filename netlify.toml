@@ -1,0 +1,10 @@
+[[redirects]]
+  from = "/cgv"
+  to = "/documents/2021/noesya-cgv-1.0.pdf"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-XSS-Protection = "0"
+    X-Content-Type-Options = "nosniff"

@@ -1,0 +1,9 @@
+{% if page.quote %}
+    <section class="quote">
+        <h2>{{ page.quote.title }}</h2>
+        {% picture quote "{{ page.quote.image }}" --img alt="{{ page.quote.title }}" title="{{ page.quote.title }}" %}
+        <quote>
+            <p>{{ page.quote.text }}</p>
+        </quote>
+    </section>
+{% endif %}
