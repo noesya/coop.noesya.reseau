@@ -13,7 +13,7 @@ permalink: /
 
 <section class="members">
     <h2>Personnes</h2>
-    {% assign members = site.members | sort: 'last_name' %}
+    {% assign members = site.persons | sort: 'last_name' %}
     {% for member in members %}
       {% include member.html member=member %}
     {% endfor %}
@@ -21,8 +21,8 @@ permalink: /
 
 <section class="members">
     <h2>Organisations</h2>
-    {% assign organisations = site.organisations | sort: 'last_name' %}
-    {% for member in organisations %}
+    {% assign members = site.organisations | sort: 'last_name' %}
+    {% for member in members %}
       {% include member.html member=member %}
     {% endfor %}
 </section>

@@ -12,8 +12,8 @@ class: work
 {%- endif -%}
 
 <section class="members">
-  {% assign members = site.members | sort: 'last_name' %}
-  {% for member in members %}
+  {% assign persons = site.persons | sort: 'last_name' %}
+  {% for member in persons %}
     {% if member.works contains page.slug %}
       {% include member.html member=member %}
     {% endif %}

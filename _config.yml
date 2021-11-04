@@ -36,7 +36,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "members"
+      type: "persons"
     values:
       layout: "member"
 
@@ -46,9 +46,9 @@ collections:
   works:
     output: true
     permalink: /:slug
-  members:
+  persons:
     output: true
-    permalink: /membres/:slug
+    permalink: /personnes/:slug
   organisations:
     output: true
     permalink: /organisations/:slug
