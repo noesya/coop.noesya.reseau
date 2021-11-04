@@ -24,6 +24,18 @@ defaults:
   -
     scope:
       path: ""
+      type: "works"
+    values:
+      layout: "work"
+  -
+    scope:
+      path: ""
+      type: "organisations"
+    values:
+      layout: "member"
+  -
+    scope:
+      path: ""
       type: "members"
     values:
       layout: "member"
@@ -31,9 +43,15 @@ defaults:
 collections:
   pages:
     output: true
+  works:
+    output: true
+    permalink: /metiers/:slug
   members:
     output: true
     permalink: /membres/:slug
+  organisations:
+    output: true
+    permalink: /organisations/:slug
 
 plugins:
   - jekyll-minifier

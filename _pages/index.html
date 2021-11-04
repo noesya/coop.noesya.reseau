@@ -9,7 +9,20 @@ permalink: /
   <div>
     <h1>La coopérative noesya travaille avec des experts du <a href="/design">design</a>, de la <a href="/recherche-utilisateur">recherche utilisateur</a>, de la <a href="/strategie">stratégie</a>, de l'<a href="/accessibilite">accessibilité</a>, de l'<a href="/ecologie">écologie</a> & de l'<a href="/ethique">éthique</a>.</h1>
   </div>
-  <div>
-    {% picture owl "/assets/images/chouette/crop.png" --img alt="La chouette noesya" %}
-  </div>
 </header>
+
+<section class="members">
+    <h2>Personnes</h2>
+    {% assign members = site.members | sort: 'last_name' %}
+    {% for member in members %}
+      {% include member.html member=member %}
+    {% endfor %}
+</section>
+
+<section class="members">
+    <h2>Organisations</h2>
+    {% assign organisations = site.organisations | sort: 'last_name' %}
+    {% for member in organisations %}
+      {% include member.html member=member %}
+    {% endfor %}
+</section>

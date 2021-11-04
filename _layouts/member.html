@@ -5,7 +5,13 @@ class: member
 
 <header>
   <div>
-    <p class="h1">Personne</p>
+    <p class="h1">
+      {%- if page.collection == 'members' -%}
+        Personne
+      {%- else -%}
+        Organisation
+      {%- endif -%}
+    </p>
     <h1>{{page.title}}</h1>
   </div>
   <div>
