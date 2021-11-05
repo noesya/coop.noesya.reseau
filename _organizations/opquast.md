@@ -1,7 +1,6 @@
 ---
 title: Opquast
 portrait: /assets/images/organizations/opquast.png
-expertise: Formation
 works:
   - accessibilite
 sections:
@@ -29,7 +28,5 @@ sections:
 quote:
     from: seb
     text: >
-        La certification Opquast m'a fait progresser professionnellement, je recommande fortement.
-
-
+        La certification Opquast m'a fait progresser professionnellement, je&nbsp;recommande fortement.
 ---

@@ -1,5 +1,6 @@
 ---
 title: Violenn Simon
+last_name: Simon
 portrait: /assets/images/persons/violenn-simon.jpg
 expertise: Freelance Art Director
 works:

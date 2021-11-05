@@ -1,5 +1,6 @@
 ---
 title: Ophélie Burgstahler
+last_name: Burgstahler
 portrait: /assets/images/persons/ophelie-burgstahler.jpg
 expertise: Senior UX Researcher & Service Designer
 works:

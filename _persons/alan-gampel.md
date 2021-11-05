@@ -1,5 +1,6 @@
 ---
 title: Alan Gampel
+last_name: Gampel
 portrait: /assets/images/persons/alan-gampel.jpg
 expertise: Pianiste concertiste, docteur en musicologie
 works:

@@ -1,5 +1,6 @@
 ---
 title: Julien Mercier
+last_name: Mercier
 portrait: /assets/images/persons/julien-mercier.jpg
 expertise: Branding
 works:
@@ -15,5 +16,5 @@ sections:
 quote:
     from: arnaud
     text: >
-        Julien est à la fois analytique et intuitif. Ses fulgurances valent de l'or !
+        Julien est à la fois analytique et intuitif. Ses fulgurances valent de&nbsp;l'or !
 ---
