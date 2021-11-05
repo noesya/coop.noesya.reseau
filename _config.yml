@@ -30,7 +30,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "organisations"
+      type: "organizations"
     values:
       layout: "member"
   -
@@ -49,7 +49,7 @@ collections:
   persons:
     output: true
     permalink: /personnes/:slug
-  organisations:
+  organizations:
     output: true
     permalink: /organisations/:slug
 

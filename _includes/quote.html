@@ -1,7 +1,9 @@
 {% if page.quote %}
     <section class="quote">
-        <h2>{{ page.quote.title }}</h2>
-        {% picture quote "{{ page.quote.image }}" --img alt="{{ page.quote.title }}" title="{{ page.quote.title }}" %}
+        {% assign title = site.data.quotes.persons[page.quote.from]['title'] %}
+        {% assign image = site.data.quotes.persons[page.quote.from]['image'] %}
+        <h2>{{ title }}</h2>
+        {% picture quote "{{image}}" --img alt="{{ page.quote.title }}" title="{{ page.quote.title }}" %}
         <quote>
             {{ page.quote.text }}
         </quote>

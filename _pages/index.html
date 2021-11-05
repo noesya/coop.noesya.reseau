@@ -21,7 +21,7 @@ permalink: /
 
 <section class="members">
     <h2>Organisations</h2>
-    {% assign members = site.organisations | sort: 'last_name' %}
+    {% assign members = site.organizations | sort: 'last_name' %}
     {% for member in members %}
       {% include member.html member=member %}
     {% endfor %}

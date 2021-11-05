@@ -6,11 +6,8 @@ class: member
 <header>
   <div>
     <p class="h1">
-      {%- if page.collection == 'persons' -%}
-        Personne
-      {%- else -%}
-        Organisation
-      {%- endif -%}
+        {% assign work = site.works | where: 'slug', page.works.first | first %}
+        <a href="{{work.url}}">{{work.title}}</a>
     </p>
     <h1>{{page.title}}</h1>
   </div>
@@ -21,5 +18,3 @@ class: member
 
 {% include sections-with-notes.html %}
 {% include quote.html %}
-{% include navigation-between-pages.html %}
-
