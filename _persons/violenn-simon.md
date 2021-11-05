@@ -15,5 +15,5 @@ sections:
 quote:
     from: arnaud
     text: >
-        Nous nous sommes rencontrés autour du projet <a href="https://ensembleatable.fr" target="_blank" rel="noopener">Ensemble à table</a> sur lequel nous collaborons depuis 2020. C'est un vrai régal !
+        Nous nous sommes rencontrés autour du projet <a href="https://ensembleatable.fr" target="_blank" rel="noopener">Ensemble à table</a>. Travailler avec Violenn est un vrai régal !
 ---
