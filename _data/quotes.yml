@@ -1,16 +1,16 @@
 persons:
   alex:
-    title: Le mot d'Alex
+    title: Alexis
     image: /assets/images/members/alexis-benoit.jpg
   arnaud:
-    title: Le mot d'Arnaud
+    title: Arnaud
     image: /assets/images/members/arnaud-levy.jpg
   pa:
-    title: Le mot de PA
+    title: Pierre-André
     image: /assets/images/members/pierre-andre-boissinot.jpg
   sebou:
-    title: Le mot de Sebou
+    title: Sébastien
     image: /assets/images/members/sebastien-gaya.jpg
   seb:
-    title: Le mot de Seb
+    title: Sébastien
     image: /assets/images/members/sebastien-moulene.jpg
