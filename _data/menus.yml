@@ -1,24 +1,21 @@
 primary:
-  - title: Design
-    url: /design
   - title: Recherche utilisateur
     url: /recherche-utilisateur
   - title: Stratégie
     url: /strategie
-  - title: Accessibilité
-    url: /accessibilite
+  - title: Design
+    url: /design
+  - title: Qualité Web
+    url: /qualite
   - title: Écologie
     url: /ecologie
   - title: Éthique
     url: /ethique
-
 legal:
   - title: Mentions légales
     url: https://www.noesya.coop/mentions-legales
-  - title: Politique de confidentialité
-    url: https://www.noesya.coop/politique-de-confidentialite
-  - title: Gestion des cookies
-    url: https://www.noesya.coop/gestion-des-cookies
+  - title: Politique de sobriété
+    url: https://www.noesya.coop/politique-de-sobriete
 contacts:
   - title: LinkedIn
     url: https://www.linkedin.com/company/noesyacoop

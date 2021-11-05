@@ -19,3 +19,12 @@ class: work
     {% endif %}
   {% endfor %}
 </section>
+
+<section class="members">
+    {% assign members = site.organizations | sort: 'title' %}
+    {% for member in members %}
+      {% if member.works contains page.slug %}
+        {% include member.html member=member %}
+      {% endif %}
+    {% endfor %}
+</section>
