@@ -2,7 +2,7 @@
 title: Opquast
 portrait: /assets/images/organizations/opquast.png
 works:
-  - accessibilite
+  - qualite
 sections:
   - title: Nos missions
     content: >
