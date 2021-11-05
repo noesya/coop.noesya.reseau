@@ -15,5 +15,5 @@ sections:
 quote:
     from: arnaud
     text: >
-        Julien est à la fois analytique et intuitif. Ses fulgurances valent de l'or !
+        Julien est à la fois analytique et intuitif. Ses fulgurances valent de&nbsp;l'or !
 ---
