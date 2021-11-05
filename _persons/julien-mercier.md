@@ -1,5 +1,6 @@
 ---
 title: Julien Mercier
+last_name: Mercier
 portrait: /assets/images/persons/julien-mercier.jpg
 expertise: Branding
 works:
