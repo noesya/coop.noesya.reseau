@@ -2,10 +2,12 @@
     <section class="quote">
         {% assign title = site.data.quotes.persons[page.quote.from]['title'] %}
         {% assign image = site.data.quotes.persons[page.quote.from]['image'] %}
-        <h2>{{ title }}</h2>
         {% picture quote "{{image}}" --img alt="{{ page.quote.title }}" title="{{ page.quote.title }}" %}
-        <quote>
-            {{ page.quote.text }}
-        </quote>
+        <div>
+            <h2>{{ title }}</h2>
+            <quote>
+                {{ page.quote.text }}
+            </quote>
+        </div>
     </section>
 {% endif %}
