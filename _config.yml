@@ -27,18 +27,21 @@ defaults:
       type: "works"
     values:
       layout: "work"
+      auto_navigation: true
   -
     scope:
       path: ""
       type: "organizations"
     values:
       layout: "member"
+      auto_navigation: true
   -
     scope:
       path: ""
       type: "persons"
     values:
       layout: "member"
+      auto_navigation: true
 
 collections:
   pages:
