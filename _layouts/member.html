@@ -20,4 +20,6 @@ class: member
 
 {% include quote.html %}
 
-{% include navigation-between-pages.html auto=true %}
+{% unless page.nav %}
+  {% include navigation-between-pages.html auto=true %}
+{% endunless %}
