@@ -3,8 +3,7 @@ title: François Charton
 last_name: Charton
 portrait: /assets/images/persons/francois-charton.jpg
 expertise: Research Engineer
-works:
-  - strategie
+categories: [tech]
 sections:
   - title: Identité
     content: >

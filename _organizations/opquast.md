@@ -1,8 +1,7 @@
 ---
 title: Opquast
 portrait: /assets/images/organizations/opquast.png
-works:
-  - qualite
+works: [ethique]
 sections:
   - title: Nos missions
     content: >

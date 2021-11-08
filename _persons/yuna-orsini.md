@@ -3,8 +3,7 @@ title: Yuna Orsini
 last_name: Orsini
 portrait: /assets/images/persons/yuna-orsini.jpg
 expertise: Designer UX
-works:
-  - recherche-utilisateur
+categories: [recherche]
 sections:
   - title: Identité
     content: >

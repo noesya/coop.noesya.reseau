@@ -3,11 +3,7 @@ title: Ophélie Burgstahler
 last_name: Burgstahler
 portrait: /assets/images/persons/ophelie-burgstahler.jpg
 expertise: Senior UX Researcher & Service Designer
-works:
-  - recherche-utilisateur
-contacts:
-    mail: ophelie.burgstahler@gmail.com
-    portfolio: https://www.behance.net/ophelieburgstahler
+categories: [recherche]
 sections:
   - title: Métier
     content: Senior UX Researcher & Service Designer
