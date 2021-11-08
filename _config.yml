@@ -27,14 +27,14 @@ defaults:
       type: "categories"
     values:
       layout: "category"
-      auto_navigation: true
+      nav_auto: true
   -
     scope:
       path: ""
       type: "organizations"
     values:
       layout: "organization_or_person"
-      auto_navigation: true
+      nav_auto: true
   -
     scope:
       path: ""
@@ -51,9 +51,11 @@ collections:
     permalink: /:slug
   persons:
     output: true
+    sort_by: title
     permalink: /personnes/:slug
   organizations:
     output: true
+    sort_by: title
     permalink: /organisations/:slug
 
 plugins:
