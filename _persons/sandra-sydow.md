@@ -2,7 +2,7 @@
 title: Sandra Sydow
 last_name: Sydow
 portrait: /assets/images/persons/sandra-sydow.jpg
-expertise: Founder | Workshop Leader | Event Speaker & Organiser | SDG Network Lead committed to make a positive impact
+expertise: Co-founder Climate Pitch 
 categories: [ethique]
 sections:
   - title: Identité
@@ -10,7 +10,7 @@ sections:
         Founder / Workshop Leader / Event Speaker & Organiser / SDG Network Lead committed to make a positive impact
 
 
-        Co-founder Climate Pitch 
+        Co-founder Climate Pitch
 
 
         Pushed by an increasing lack of purpose and by a worrying future for my children, I decided to leave a 20+ years' career as leader in the communication industry, both on the client (marketing) and agency side (media) to recognise the need for a more sustainable world and to become an active agent of the biggest transformation yet to happen.

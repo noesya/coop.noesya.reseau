@@ -2,7 +2,7 @@
 title: Emmanuel Zimmert
 last_name: Zimmert
 portrait: /assets/images/persons/emmanuel-zimmert.jpg
-expertise: Expert numérique éducatif / formateur / développeur / coopération linguistique
+expertise: Expert numérique éducatif
 categories:
     - ethique
     - tech
