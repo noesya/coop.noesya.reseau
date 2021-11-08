@@ -1,0 +1,10 @@
+<nav class="menu" aria-label="Navigation principale">
+  <ul>
+    {% assign categories = site.categories | sort: 'position' %}
+    {% for category in categories %}
+      <li>
+        <a href="{{category.url}}">{{category.title}}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

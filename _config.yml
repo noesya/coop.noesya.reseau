@@ -24,29 +24,29 @@ defaults:
   -
     scope:
       path: ""
-      type: "works"
+      type: "categories"
     values:
-      layout: "work"
+      layout: "category"
       auto_navigation: true
   -
     scope:
       path: ""
       type: "organizations"
     values:
-      layout: "member"
+      layout: "organization_or_person"
       auto_navigation: true
   -
     scope:
       path: ""
       type: "persons"
     values:
-      layout: "member"
+      layout: "organization_or_person"
       auto_navigation: true
 
 collections:
   pages:
     output: true
-  works:
+  categories:
     output: true
     permalink: /:slug
   persons:

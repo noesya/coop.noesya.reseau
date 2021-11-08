@@ -1,16 +1,4 @@
 primary:
-  - title: Recherche utilisateur
-    url: /recherche-utilisateur
-  - title: Stratégie
-    url: /strategie
-  - title: Design
-    url: /design
-  - title: Qualité Web
-    url: /qualite
-  - title: Écologie
-    url: /ecologie
-  - title: Éthique
-    url: /ethique
 legal:
   - title: Mentions légales
     url: https://www.noesya.coop/mentions-legales
