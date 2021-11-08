@@ -2,7 +2,7 @@
 title: Chloé Béghin
 last_name: Béghin
 portrait: /assets/images/persons/chloe-beghin.jpg
-expertise: Consultante & formatrice indépendante en accessibilité numérique, assurance qualité web (certifiée Opquast expert) et UX Design
+expertise: Consultante & formatrice en accessibilité numérique
 categories: [strategie]
 sections:
   - title: Identité

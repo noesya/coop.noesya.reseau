@@ -2,7 +2,7 @@
 title: Romain Peton
 last_name: Peton
 portrait: /assets/images/persons/romain-peton.jpg
-expertise: "Consultant Développement Durable // Leader à Mission // Lecturer MBASP4 Inseec/SupDePub"
+expertise: Consultant Développement Durable
 categories:
     - ethique
     - strategie

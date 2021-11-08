@@ -2,7 +2,7 @@
 title: Marie-Laure Cuvelier
 last_name: Cuvelier
 portrait: /assets/images/persons/marie-laure-cuvelier.jpg
-expertise: Conseillère régionale déléguée à l’ouverture de l’action régionale @ Nouvelle-Aquitaine // Secrétaire générale @ France Tiers-Lieux // Consultante formatrice @ Ressources
+expertise: Conseillère régionale @ Nouvelle-Aquitaine
 categories: [ethique]
 sections:
   - title: Identité

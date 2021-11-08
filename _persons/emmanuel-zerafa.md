@@ -2,7 +2,7 @@
 title: Emmanuel Zerafa
 last_name: Zerafa
 portrait: /assets/images/persons/emmanuel-zerafa.jpg
-expertise: Concepteur Rédacteur Freelance / Fondateur de Walk This Way
+expertise: Concepteur Rédacteur Freelance
 categories: [strategie]
 sections:
   - title: Identité

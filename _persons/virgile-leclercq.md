@@ -2,7 +2,7 @@
 title: Virgile Leclercq
 last_name: Leclercq
 portrait: /assets/images/persons/virgile-leclercq.jpg
-expertise: Co-fondateur chez Ctrl S, Responsable Design global et Connaissances
+expertise: Co-fondateur chez Ctrl S, Design global et Connaissances
 categories:
     - design
     - strategie

@@ -2,7 +2,7 @@
 title: Frédéric Aubert
 last_name: Aubert
 portrait: /assets/images/persons/frederic-aubert.jpg
-expertise: Fondateur Projet Candide - accompagner les organisations face au changement climatique
+expertise: Fondateur Projet Candide
 categories: [design]
 sections:
   - title: Identité

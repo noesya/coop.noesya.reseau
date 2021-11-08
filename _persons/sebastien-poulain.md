@@ -2,7 +2,7 @@
 title: Sébastien Poulain
 last_name: Poulain
 portrait: /assets/images/persons/sebastien-poulain.jpg
-expertise: Docteur en science de l’information et de la communication
+expertise: Dr en science de l’information et de la communication
 categories:
     - recherche
 sections:
