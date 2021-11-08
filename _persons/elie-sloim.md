@@ -3,8 +3,7 @@ title: Élie Sloïm
 last_name: Sloïm
 portrait: /assets/images/persons/elie-sloim.jpg
 expertise: Fondateur d'Opquast
-works:
-  - qualite
+categories: [ethique]
 sections:
   - title: Identité
     content: >

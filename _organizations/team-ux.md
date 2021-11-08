@@ -1,8 +1,7 @@
 ---
 title: Team UX
 portrait: /assets/images/organizations/team-ux.png
-works:
-  - recherche-utilisateur
+works: [recherche]
 sections:
   - title: Nos missions
     content: >
