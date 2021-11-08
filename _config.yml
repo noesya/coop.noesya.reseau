@@ -33,7 +33,7 @@ defaults:
       path: ""
       type: "organizations"
     values:
-      layout: "organization_or_person"
+      layout: "person"
       sort_by: title
       nav_auto: true
   -
@@ -41,7 +41,7 @@ defaults:
       path: ""
       type: "persons"
     values:
-      layout: "organization_or_person"
+      layout: "person"
       sort_by: last_name
       auto_navigation: true
 
