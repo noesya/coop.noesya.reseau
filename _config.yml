@@ -33,14 +33,14 @@ defaults:
       path: ""
       type: "organizations"
     values:
-      layout: "organization_or_person"
+      layout: "person"
       nav_auto: true
   -
     scope:
       path: ""
       type: "persons"
     values:
-      layout: "organization_or_person"
+      layout: "person"
       auto_navigation: true
 
 collections:
