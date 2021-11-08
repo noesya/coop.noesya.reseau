@@ -27,21 +27,21 @@ defaults:
       type: "works"
     values:
       layout: "work"
-      auto_navigation: true
+      nav_auto: true
   -
     scope:
       path: ""
       type: "organizations"
     values:
       layout: "member"
-      auto_navigation: true
+      nav_auto: true
   -
     scope:
       path: ""
       type: "persons"
     values:
       layout: "member"
-      auto_navigation: true
+      nav_auto: true
 
 collections:
   pages:
@@ -51,9 +51,11 @@ collections:
     permalink: /:slug
   persons:
     output: true
+    sort_by: title
     permalink: /personnes/:slug
   organizations:
     output: true
+    sort_by: title
     permalink: /organisations/:slug
 
 plugins:

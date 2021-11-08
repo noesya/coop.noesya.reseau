@@ -17,5 +17,9 @@
             @media (prefers-color-scheme: dark)
                 color: $secondary-reverse
         img
+            filter: grayscale(1)
             margin-bottom: $grid-gutter
+            transition: filter 0.33s
             width: 100%
+        &:hover img
+            filter: grayscale(0)

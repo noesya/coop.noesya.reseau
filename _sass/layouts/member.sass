@@ -9,9 +9,12 @@
                 padding-top: $grid-gutter * 4
                 img
                     display: block
+                    filter: grayscale(1)
                     height: auto
+                    transition: filter 0.33s
                     width: 100%
-
+                    &:hover
+                        filter: grayscale(0)
     header + section
         position: relative
         h2
