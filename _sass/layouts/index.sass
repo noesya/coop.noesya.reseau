@@ -1,10 +1,20 @@
 .index
-    background-image: url('../images/chouette/large-crop.png')
-    background-position: 100% 100px
-    background-repeat: no-repeat
+    @include media-breakpoint-up(md)
+        background-image: url('../images/chouette/large-crop.png')
+        background-position: 100% 100px
+        background-repeat: no-repeat
+        background-size: 250px
+    @include media-breakpoint-up(lg)
+        background-size: auto
     header
         @include grid(12)
+        background-image: url('../images/chouette/large-crop.png')
+        background-position: 100% 100%
+        background-repeat: no-repeat
+        background-size: 100px auto
         padding-bottom: $grid-gutter * 8
+        @include media-breakpoint-up(md)
+            background: none
         > div
             &:nth-child(1)
                 grid-column: 1/8
@@ -13,10 +23,6 @@
                 img
                     position: absolute
                     right: 0px
-    @include media-breakpoint-down(lg)
-        background-size: 250px
-    @include media-breakpoint-down(md)
-        background-position: 100% 300px
-        background-size: 100px
-    @include media-breakpoint-down(md)
-        background-position: 100% 67vh
+        h1
+            @include media-breakpoint-down(md)
+                font-size: px2rem(33)
