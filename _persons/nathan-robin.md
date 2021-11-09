@@ -7,6 +7,7 @@ categories: [design]
 sections:
   - title: Identité
     content: >
+        Photographe
   - title: Contact
     content: >
         <a href="https://www.nathanrobin.com/" target="_blank" rel="noreferrer">Site</a> –
