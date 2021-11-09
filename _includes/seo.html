@@ -1,0 +1,31 @@
+{% assign title_seo = site.title %}
+{% if page.title %}
+  {% assign title_seo = title_seo | prepend: ' • ' | prepend: page.title %}
+{% endif %}
+{% assign description_seo = page.description | markdownify | strip_html | strip | default: page.expertise %}
+{% assign image_seo = "/assets/images/share/share.jpg" | prepend: site.url %}
+{% if page.portrait %}
+  {% assign image_seo = page.portrait | prepend: site.url %}
+{% endif %}
+
+<!-- HTML Meta Tags -->
+<title>{{ title_seo }}</title>
+<meta name="description" content="{{ description_seo }}">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:title" content="{{ title_seo }}" />
+<meta property="og:description" content="{{ description_seo }}">
+<meta property="og:image" content="{{ image_seo }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:type" content="website">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:title" content="{{ title_seo }}">
+<meta name="twitter:description" content="{{ description_seo }}">
+<meta name="twitter:image" content="{{ image_seo }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="noesya.coop">
+<meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+
+<!-- Icons -->
+<link rel="icon" type="image/png" href="/assets/images/share/favicon.png" />
