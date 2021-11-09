@@ -1,6 +1,6 @@
 ---
-title:
-last_name:
+title: Augustin Courtier
+last_name: Courtier
 portrait: /assets/images/persons/augustin-courtier.jpg
 expertise: Co-fondateur de Latitudes & Tech for Good Explorer 🚀
 categories:
