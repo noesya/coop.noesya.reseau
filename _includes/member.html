@@ -3,5 +3,13 @@
         {% picture person "{{ member.portrait }}" --img alt="{{ member.title }}" title="{{ member.title }}" %}
         <h2>{{ member.title }}</h2>
         <p>{{ member.expertise }}</p>
+        {% comment %}
+        <p>
+            {%- for cat in member.categories -%}
+                {%- assign category = site.categories | where: 'slug', cat | first -%}
+                {{ category.title }}{% if member.categories.size != forloop.index %}, {% endif %}
+            {%- endfor -%}
+        </p>
+        {% endcomment %}
     </a>
 </article>
