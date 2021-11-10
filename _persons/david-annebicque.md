@@ -9,10 +9,13 @@ categories:
 sections:
   - title: Identité
     content: >
-        Directeur Adjoint chargé de la transformation numérique et de l'innovation pédagogique à l'IUT de Troyes, Université de Reims Champagne-Ardenne
+        Directeur Adjoint chargé de la transformation numérique et de l'innovation pédagogique à l'Institut Universitaire de Technologie (IUT) de Troyes, Université de Reims Champagne-Ardenne
 
 
         Enseignant à l’IUT de Troyes au département MMI (Métiers du Multimédia et de l’Internet) et chercheur au CReSTIC (Centre de Recherche en STIC, Université de Reims Champagne-Ardenne). Directeur adjoint de l’IUT de Troyes chargé de la transformation numérique et de l’innovation pédagogique. J’enseigne essentiellement les langages de programmation Web (PHP, HTML, CSS), les framework du web (Symfony, CodeIgniter,…), et les concepts de l’ergonomie et de l’accessibilité Web.
+
+
+        Auteur d'applications Web pour les IUT.
 
   - title: Contact
     content: >
