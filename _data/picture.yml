@@ -13,7 +13,11 @@ presets:
   person:
     crop: '1:1'
     dimension_attributes: true
+    widths: [95, 190, 250, 380, 530, 1060]
     formats: [webp, original]
+    sizes:
+      mobile: 95px
+      tablet: 25vw
 
   quote:
     crop: '1:1'
