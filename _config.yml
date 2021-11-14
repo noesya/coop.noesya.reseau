@@ -43,7 +43,7 @@ defaults:
     values:
       layout: "person"
       sort_by: last_name
-      auto_navigation: true
+      nav_auto: true
 
 collections:
   pages:
