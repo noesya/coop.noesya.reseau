@@ -5,9 +5,10 @@
         display: grid
         grid-auto-rows: 1fr
     > h2
-        grid-column: 1/5
         margin-bottom: $grid-gutter * 4
         text-align: center
+        @include media-breakpoint-up(md)
+            grid-column: 1/5
     article
         a
             text-decoration: none
@@ -37,6 +38,7 @@
                     grid-row: 1/4
                 img
                     margin-top: 7px
+                    width: 95px
                 h2, p
                     grid-column: 2/4
                 p
