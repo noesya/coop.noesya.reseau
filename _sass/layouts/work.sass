@@ -1,9 +1,6 @@
 .members
     @include grid(4)
     padding-bottom: $grid-gutter * 5
-    @include media-breakpoint-down(md)
-        display: grid
-        grid-auto-rows: 1fr
     > h2
         margin-bottom: $grid-gutter * 4
         text-align: center
@@ -14,11 +11,13 @@
             text-decoration: none
         h2
             font-family: $font-family-serif
-            font-size: px2rem(22)
-            line-height: 1.8
+            font-size: px2rem(25)
             margin-bottom: 0
         p
             color: $secondary
+            font-size: px2rem(22)
+            line-height: px2rem(36)
+            margin-bottom: $grid-gutter * 3
             @media (prefers-color-scheme: dark)
                 color: $secondary-reverse
         img
@@ -33,7 +32,6 @@
                 display: grid
                 grid-gap: 0 #{$grid-gutter}
                 grid-template-columns: repeat(3, 1fr)
-                margin-bottom: 10px
                 picture
                     grid-column: 1/2
                     grid-row: 1/4
@@ -41,6 +39,8 @@
                     width: 95px
                 h2, p
                     grid-column: 2/4
+                h2
+                    font-size: px2rem(20)
                 p
                     font-size: px2rem(16)
                     line-height: px2rem(24)
