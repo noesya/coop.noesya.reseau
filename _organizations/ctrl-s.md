@@ -1,7 +1,7 @@
 ---
 title: Ctrl S.
 portrait: /assets/images/organizations/ctrl-s.png
-works:
+categories:
     - recherche
     - design
     - strategie
@@ -14,7 +14,7 @@ sections:
   - title: Une mission
     content: >
         L’objectif de Ctrl S est que le monde n’ait plus besoin d’eux (en tant que studio) d’ici dix ans. D’ici là, le studio travaillera à déconstruire et repenser en profondeur nos usages, besoins et croyances autour du numérique pour proposer des nouveaux produits et services plus respectueux de la planète et des humains.
-  - title: Une mission
+  - title: Une conviction
     content: >
         Selon Ctrl S, l’innovation est plus qu’une course aveugle au progrès technique. Innover pour de vrai impose de prendre en compte les conséquences environnementales, sociales, économiques et politiques de notre démarche.
   - title: Contact
