@@ -4,9 +4,8 @@ last_name: Roussilhe
 portrait: /assets/images/persons/gauthier-roussilhe.jpg
 expertise: Designer et chercheur
 categories:
-    - recherche
-    - design
     - ethique
+    - recherche
 sections:
   - title: Identité
     content: >

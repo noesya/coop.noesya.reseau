@@ -3,7 +3,7 @@ title: Emmanuelle Walter
 last_name: Walter
 portrait: /assets/images/persons/emmanuelle-walter.jpg
 expertise: Rédactrice en chef, Arrêt sur Images
-categories: [design]
+categories: [ethique]
 sections:
   - title: Identité
     content: >
