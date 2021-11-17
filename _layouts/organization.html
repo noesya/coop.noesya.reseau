@@ -1,0 +1,21 @@
+---
+layout: default
+class: member
+---
+
+<header>
+  <div>
+    <p class="h1">
+        {% assign category = site.categories | where: 'slug', page.categories.first | first %}
+        <a href="{{category.url}}">{{category.title}}</a>
+    </p>
+    <h1>{{page.title}}</h1>
+  </div>
+  <div>
+    {% picture person "{{ page.portrait }}" --img alt="{{ page.title }}" title="{{ page.title }}" %}
+  </div>
+</header>
+
+{% include sections-with-notes.html %}
+{% include quote.html %}
+{{content}}

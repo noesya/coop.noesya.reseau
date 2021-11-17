@@ -8,7 +8,6 @@ options:
   menu_burger: true
   hover_navigation_links: true
 
-
 defaults:
   -
     scope:
@@ -33,7 +32,7 @@ defaults:
       path: ""
       type: "organizations"
     values:
-      layout: "person"
+      layout: "organization"
       sort_by: title
       nav_auto: true
   -
@@ -80,3 +79,5 @@ jekyll-minifier:
 
 picture:
   ignore_missing_images: true
+  fast_build: true
+  suppress_warnings: true
