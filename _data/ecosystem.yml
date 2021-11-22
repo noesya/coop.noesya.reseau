@@ -3,6 +3,8 @@ sites:
       url: https://www.noesya.coop
     - title: gouvernance
       url: https://gouvernance.noesya.coop
+    - title: diagnostic
+      url: https://diagnostic.noesya.coop
     - title: réseau
       url: https://reseau.noesya.coop
     - title: histoires
