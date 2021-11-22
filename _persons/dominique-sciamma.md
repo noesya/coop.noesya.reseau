@@ -2,7 +2,7 @@
 title: Dominique Sciamma
 last_name: Sciamma
 portrait: /assets/images/persons/dominique-sciamma.jpg
-expertise: Director at CY école de design at CY Cergy Paris Université
+expertise: Director, CY école de design & President, APCI
 categories:
     - design
     - ethique
@@ -11,14 +11,10 @@ sections:
   - title: Identité
     content: >
         Director at CY école de design at CY Cergy Paris Université
+        & President of APCI-Promotion du design
 
 
-        President of APCI-Promotion du design
-        Previously Director of Strate School of Design, Dominique created its Multimedia Department in 1998.
-        He also gave communication classes, while following up the Degree projects.
-        In 2007, he created the "Interactive Systems and Objects" department.
-        In 2010, he created Strate Research, the Research Department.
-        In 2012 he become Deputy Director.
+        Previously Director of Strate School of Design from 2013 to 2020, Dominique created its Multimedia Department in 1998. He also gave communication classes, while following up all the Degree projects. In 2007, he created the “Interactive Systems and Objects” department, devoted to AI in the object. In 2010, he created Strate Research, the Research Department. In 2012 he became Deputy Director before taking over the general direction of the school in 2013.
 
 
         Holding a DEA and a Maîtrise in theoretical Computer Science and a Maîtrise in Mathematics, and with a thorough career within international companies, Dominique has led, until his integration at Strate , a double activity, as a pluri-media author, and a NTIC consultant.
