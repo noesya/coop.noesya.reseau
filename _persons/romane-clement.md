@@ -5,8 +5,6 @@ portrait: /assets/images/persons/romane-clement.jpg
 expertise: Cofondatrice de Ctrl S.
 categories:
     - strategie
-    - design
-    - tech
     - ethique
 sections:
   - title: Identité
