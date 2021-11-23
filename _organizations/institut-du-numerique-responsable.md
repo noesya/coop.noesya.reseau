@@ -7,8 +7,8 @@ categories:
 sections:
   - title: Identité
     content: >
+        L’INR, est un think and do tank créé en 2018. Il émane de la fusion du club du Club Green IT, en association loi 1901 à but non lucratif. L’objectif étant d’ouvrir notre démarche au plus grand nombre et sur des thématiques plus larges que l’impact environnemental du numérique. le Club Green IT est devenu  l’Institut du Numérique Responsable (INR).
   - title: Contact
     content: >
-        <a href="" target="_blank" rel="noreferrer">Site</a> –
-        <a href="mailto:" target="_blank" rel="noreferrer">Mail</a>
+        <a href="https://institutnr.org/" target="_blank" rel="noreferrer">Site</a>
 ---

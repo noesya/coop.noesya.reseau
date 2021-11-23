@@ -8,11 +8,35 @@ categories:
 sections:
   - title: Identité
     content: >
-        Origens Media Lab est un laboratoire de recherches conçu comme un tiers-lieu interdisciplinaire en sciences humaines et sociales. Fondé en 2010 par Emilie Ramillien et Diego Landivar, Origens a été pensé comme un espace permettant de s’affranchir de certaines contraintes institutionnelles pesant sur les établissements de recherche conventionnels (axes de recherches délimités, faible interdisciplinarité, lourdeur administrative, angoisse financière, frilosité épistémique, court-termisme, …) et ne permettant pas d’embrasser pleinement toutes les latitudes méthodologiques et épistémiques.
+        Bachelor [BUT] Métiers du Multimedia & de l'Internet [MMI]
+  - title: Une formation en phase avec les enjeux de l'époque
+    content: >
+        Comprendre les écosystèmes, les besoins des utilisateurs et les dispositifs de communication numérique
 
 
-        Origens se propose d’enquêter sur ce qui se joue derrière la crise écologique que nous traversons, non pas comme un défi purement technique, mais comme véritable mutation anthropologique qui ne cesse de redistribuer les différents agencements du monde et de modifier nos attachements à celui-ci. Cette crise de nos milieux de vie oblige à radicaliser certaines options épistémiques afin de pouvoir penser des objets, qui sont sinon difficilement appréhendables à travers le prisme classique du naturalisme scientifique. Origens enquête sur les transformations cosmologiques induites par l’Anthropocène en mobilisant des cadres méthodologiques à la croisée de l’ethnographie, de la philosophie, de la sociologie ou encore des humanités numériques. Nous ancrons notre démarche dans un travail approfondi d’enquête (au sens pragmatique et anthropologique du terme) que nous conduisons sur divers terrains (auprès d’agriculteurs et de paysans, auprès de communautés indigènes mais aussi d’organisations « modernes » comme les entreprises, auprès d’artistes ou encore au sein des terrains numériques, …).
+        Concevoir ou co-concevoir une réponse stratégique pertinente à une problématique complexe
+
+
+        Exprimer un message avec les médias numériques pour informer et communiquer
+
+
+        Développer pour le web et les médias numériques
+
+
+        Entreprendre dans le secteur du numérique
+  - title: 3 parcours pour 3 familles de métiers
+    content: >
+        STRATÉGIE DE COMMUNICATION NUMÉRIQUE & DESIGN D’EXPÉRIENCES
+        Métiers : chargé de communication numérique, chef de projet, product owner, UX designer, spécialiste SEO, rédacteur web, community manager, consultant analytics...
+
+
+        CRÉATION NUMÉRIQUE
+        Métiers : directeur artistique, designer interactif, web/UI designer, motion designer, réalisateur, infographiste, game designer...
+
+
+        DÉVELOPPEMENT WEB ET DISPOSITIFS INTERACTIFS
+        Métiers : Intégrateur, développeur front, développeur back, développeur full-stack, métiers de la scénographie numérique, intégrateur de dispositif de réalité virtuelle...
   - title: Contact
     content: >
-        <a href="https://origensmedialab.org/" target="_blank" rel="noreferrer">Site</a>
+        <a href="https://www.mmibordeaux.com" target="_blank" rel="noreferrer">Site</a>
 ---
