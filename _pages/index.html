@@ -12,27 +12,25 @@ permalink: /
   </div>
 </header>
 
-<section>
-    <main>
-        <ol>
-          <li><a href="#personnes">{{site.persons.size }} personnes</a></li>
-          <li><a href="#organisations">{{site.organizations.size }} organisations</a></li>
-        </ol>
-    </main>
+<section class="toc">
+  <ol role="navigation">
+    <li><a href="#personnes">{{site.persons.size }} personnes</a></li>
+    <li><a href="#organisations">{{site.organizations.size }} organisations</a></li>
+  </ol>
 </section>
 
 <section class="members">
-    <h2 id="personnes">Personnes</h2>
-    {% assign members = site.persons | sort: 'last_name' %}
-    {% for member in members %}
-      {% include member.html member=member %}
-    {% endfor %}
+  <h2 id="personnes">Personnes</h2>
+  {% assign members = site.persons | sort: 'last_name' %}
+  {% for member in members %}
+    {% include member.html member=member %}
+  {% endfor %}
 </section>
 
 <section class="members">
-    <h2 id="organisations">Organisations</h2>
-    {% assign members = site.organizations | sort: 'title' %}
-    {% for member in members %}
-      {% include member.html member=member %}
-    {% endfor %}
+  <h2 id="organisations">Organisations</h2>
+  {% assign members = site.organizations | sort: 'title' %}
+  {% for member in members %}
+    {% include member.html member=member %}
+  {% endfor %}
 </section>
