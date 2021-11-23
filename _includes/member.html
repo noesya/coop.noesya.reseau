@@ -1,15 +1,15 @@
 <article>
-    <a href="{{ member.url }}">
-        {% picture person "{{ member.portrait }}" --img alt="{{ member.title }}" title="{{ member.title }}" %}
-        <h2>{{ member.title }}</h2>
-        <p>{{ member.expertise }}</p>
-        {% comment %}
-        <p>
-            {%- for cat in member.categories -%}
-                {%- assign category = site.categories | where: 'slug', cat | first -%}
-                {{ category.title }}{% if member.categories.size != forloop.index %}, {% endif %}
-            {%- endfor -%}
-        </p>
-        {% endcomment %}
-    </a>
+  <a href="{{ member.url }}">
+    {% picture person "{{ include.member.portrait }}" --img alt="{{ include.member.title }}" title="{{ include.member.title }}" %}
+    <h2>{{ include.member.title }}</h2>
+    <p>{{ include.member.expertise }}</p>
+    {% comment %}
+    <p>
+      {%- for cat in include.member.categories -%}
+        {%- assign category = site.categories | where: 'slug', cat | first -%}
+        {{ category.title }}{% if include.member.categories.size != forloop.index %}, {% endif %}
+      {%- endfor -%}
+    </p>
+    {% endcomment %}
+  </a>
 </article>
