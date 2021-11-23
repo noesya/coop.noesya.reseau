@@ -3,7 +3,9 @@ title: Yannick Morel
 last_name: Morel
 portrait: /assets/images/persons/yannick-morel.jpg
 expertise: Co-fondateur de Latitudes
-categories: [design]
+categories:
+    - ethique
+    - tech
 sections:
   - title: Identité
     content: >
