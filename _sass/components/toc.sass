@@ -1,0 +1,33 @@
+.toc
+    ol
+        margin-bottom: $grid-gutter * 3
+    li
+        font-size: px2rem(22)
+        line-height: px2rem(36)
+        margin-bottom: $grid-gutter
+        a
+            &::after
+                @include icon
+                content: map-get($icons, 'link')
+                font-size: px2rem(17)
+                margin-left: 10px
+                transition: transform .3s ease
+                @media (prefers-color-scheme: dark)
+                    filter: invert(0)
+            &:hover::after
+                transform: translateX(5px)
+
+    @include media-breakpoint-up(md)
+        ol
+            @include grid(3)
+            margin-bottom: $grid-gutter * 3
+        li
+            margin-bottom: $grid-gutter * 2
+
+    @include media-breakpoint-up(lg)
+        ol
+            margin-bottom: $grid-gutter * 4
+
+    @include media-breakpoint-up(xxl)
+        ol
+            @include grid(4)
