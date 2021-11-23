@@ -7,6 +7,9 @@ categories: [strategie]
 sections:
   - title: Identité
     content: >
+        DG & Partner chez <a href="/organisations/look-sharp">Look Sharp</a>
+
+
         Counsel in coms and PR for organisations in transformation, specialized in CSR, cleantech, recycling, industry and HR fields. Co-founder and partner at @LookSharpParis. MBA in sustainable development, Dauphine University, Paris. co-founder #EntrepriseContributive
 
   - title: Contact
