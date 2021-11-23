@@ -1,5 +1,5 @@
 <article>
-  <a href="{{ member.url }}">
+  <a href="{{ include.member.url }}">
     {% picture person "{{ include.member.portrait }}" --img alt="{{ include.member.title }}" title="{{ include.member.title }}" %}
     <h2>{{ include.member.title }}</h2>
     <p>{{ include.member.expertise }}</p>
