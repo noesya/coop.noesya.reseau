@@ -3,7 +3,9 @@ title: Jean-Claude Boulay
 last_name: Boulay
 portrait: /assets/images/persons/jean-claude-boulay.jpg
 expertise: Sémiologue, sociologue et qualitativiste
-categories: [design]
+categories:
+    - recherche
+    - strategie
 sections:
   - title: Identité
     content: >

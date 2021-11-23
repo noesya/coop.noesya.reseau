@@ -12,18 +12,20 @@ class: work
   </header>
 
 <section class="members">
-  {% assign persons = site.persons | sort: 'last_name' %}
-  {% for member in persons %}
-    {% if member.categories contains page.slug %}
-      {% include member.html member=member %}
-    {% endif %}
-  {% endfor %}
+    <h2 id="personnes">Personnes</h2>
+    {% assign persons = site.persons | sort: 'last_name' %}
+    {% for member in persons %}
+      {% if member.categories contains page.slug %}
+        {% include member.html member=member %}
+      {% endif %}
+    {% endfor %}
 </section>
 
 <section class="members">
+    <h2 id="organisations">Organisations</h2>
     {% assign members = site.organizations | sort: 'title' %}
     {% for member in members %}
-      {% if member.works contains page.slug %}
+      {% if member.categories contains page.slug %}
         {% include member.html member=member %}
       {% endif %}
     {% endfor %}
