@@ -1,7 +1,9 @@
 ---
 title: The Shift Project
 portrait: /assets/images/organizations/the-shift-project.png
-categories: [ethique]
+categories:
+    - ethique
+    - recherche
 sections:
   - title: Identité
     content: >

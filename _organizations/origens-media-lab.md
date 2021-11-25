@@ -1,7 +1,9 @@
 ---
 title: Origens Medialab
 portrait: /assets/images/organizations/origens-medialab.png
-categories: [ethique]
+categories:
+    - ethique
+    - recherche
 sections:
   - title: Identité
     content: >

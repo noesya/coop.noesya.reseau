@@ -4,6 +4,7 @@ portrait: /assets/images/organizations/inr.png
 categories:
     - ethique
     - tech
+    - recherche
 sections:
   - title: Identité
     content: >

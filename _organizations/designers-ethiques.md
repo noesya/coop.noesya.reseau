@@ -4,6 +4,7 @@ portrait: /assets/images/organizations/designers-ethiques.png
 categories:
     - ethique
     - design
+    - recherche
 sections:
   - title: Identité
     content: >
