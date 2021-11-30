@@ -3,6 +3,7 @@ title: Timothée Parrique
 last_name: Parrique
 portrait: /assets/images/persons/timothee-parrique.jpg
 expertise: Dr. in economics specialised in degrowth
+validated: true
 categories:
     - recherche
     - ethique
