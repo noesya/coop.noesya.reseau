@@ -18,6 +18,8 @@ presets:
     sizes:
       mobile: 95px
       tablet: 25vw
+    attributes:
+      img: loading="lazy"
 
   quote:
     crop: '1:1'

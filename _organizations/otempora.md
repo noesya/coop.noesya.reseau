@@ -22,9 +22,6 @@ sections:
         par une méthode de travail commune à l’ensemble de l’équipe et par des compétences propres à chaque membre d’O tempora, qui permettent le cas échéant la composition de binômes adaptés aux besoins du commanditaire,
         par le développement d’une connaissance des enjeux et des acteurs relatifs à chaque thématique sur laquelle nous intervenons, qui vient nourrir l’ensemble de notre pratique et légitime les choix effectués.
         La co-conception et l’approche partenariale sont très souvent au cœur des missions confiées à O tempora, ce qui implique une manière d’intervenir spécifique entre interface et chambre d'écho, passeur et médiateur.
-
-
-
   - title: Contact
     content: >
         <a href="https://www.otempora.com/" target="_blank" rel="noreferrer">Site</a>
