@@ -3,6 +3,7 @@ title: Esteban Almiron
 last_name: Almiron
 portrait: /assets/images/persons/esteban-almiron.jpg
 expertise: Front end developer, computational designer
+validated: true
 categories: [tech]
 sections:
   - title: Identité
