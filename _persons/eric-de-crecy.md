@@ -1,6 +1,6 @@
 ---
 title: Eric de Crécy
-last_name: Crécy
+last_name: de Crécy
 portrait: /assets/images/persons/eric-de-crecy.jpg
 expertise: Directeur artistique digital - Freelance
 categories: [design]

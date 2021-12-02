@@ -1,6 +1,6 @@
 ---
 title: Jonathan Da Costa
-last_name: Costa
+last_name: Da Costa
 portrait: /assets/images/persons/jonathan-da-costa.jpg
 expertise: Freelance Art Director
 categories: [design]
