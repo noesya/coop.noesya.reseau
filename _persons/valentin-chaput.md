@@ -3,6 +3,7 @@ title: Valentin Chaput
 last_name: Chaput
 portrait: /assets/images/persons/valentin-chaput.jpg
 expertise: Co-founder & co-director @ Open Source Politics
+validated: true
 categories:
     - ethique
     - strategie

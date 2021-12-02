@@ -2,6 +2,7 @@
 title: Open Source Politics
 portrait: /assets/images/organizations/opensourcepolitics.png
 categories: [ethique]
+validated: true
 sections:
   - title: Identité
     content: >
