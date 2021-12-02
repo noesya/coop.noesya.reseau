@@ -15,5 +15,5 @@ sections:
   - title: Contact
     content: >
         <a href="https://pitch-climat.fr/" target="_blank" rel="noreferrer">Site</a> –
-        <a href="mailto:fredericaubert@hotmail.com" target="_blank" rel="noreferrer">Mail</a>
+        <a href="mailto:frederic@projetcandide.fr" target="_blank" rel="noreferrer">Mail</a>
 ---
