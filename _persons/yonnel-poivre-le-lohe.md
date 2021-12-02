@@ -1,6 +1,6 @@
 ---
 title: Yonnel Poivre-Le Lohé
-last_name:
+last_name: Poivre-Le Lohé
 portrait: /assets/images/persons/yonnel-poivre-le-lohe.jpg
 expertise: Entreprenons, un objectif à la fois
 categories:

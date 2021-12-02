@@ -3,6 +3,7 @@ title: David Annebicque
 last_name: Annebicque
 portrait: /assets/images/persons/david-annebicque.jpg
 expertise: Directeur Adjoint à l'IUT de Troyes
+validated: true
 categories:
     - recherche
     - tech
