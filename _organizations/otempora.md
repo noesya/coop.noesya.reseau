@@ -1,6 +1,7 @@
 ---
 title: O tempora
 portrait: /assets/images/organizations/otempora.png
+validated: true
 categories:
     - strategie
     - ethique

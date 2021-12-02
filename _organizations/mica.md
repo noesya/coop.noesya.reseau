@@ -1,5 +1,5 @@
 ---
-title: Laboratoire MICA
+title: MICA
 portrait: /assets/images/organizations/mica.png
 categories: [recherche]
 sections:

@@ -2,6 +2,7 @@
 title: Samuel Attia
 last_name: Attia
 portrait: /assets/images/persons/samuel-attia.jpg
+validated: true
 expertise: Consultant et associé, Agence O tempora
 categories:
     - strategie
