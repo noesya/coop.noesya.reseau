@@ -1,6 +1,7 @@
 ---
 title: Ctrl S.
 portrait: /assets/images/organizations/ctrl-s.png
+validated: true
 categories:
     - recherche
     - design

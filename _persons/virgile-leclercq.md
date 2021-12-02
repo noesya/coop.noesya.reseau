@@ -3,6 +3,7 @@ title: Virgile Leclercq
 last_name: Leclercq
 portrait: /assets/images/persons/virgile-leclercq.jpg
 expertise: Cofondateur de Ctrl S.
+validated: true
 categories:
     - design
     - strategie

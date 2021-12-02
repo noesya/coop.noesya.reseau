@@ -3,6 +3,7 @@ title: Romane Clément
 last_name: Clément
 portrait: /assets/images/persons/romane-clement.jpg
 expertise: Cofondatrice de Ctrl S.
+validated: true
 categories:
     - strategie
     - ethique
