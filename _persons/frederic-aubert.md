@@ -3,6 +3,7 @@ title: Frédéric Aubert
 last_name: Aubert
 portrait: /assets/images/persons/frederic-aubert.jpg
 expertise: Fondateur Projet Candide
+validated: true
 categories: [ethique]
 sections:
   - title: Identité

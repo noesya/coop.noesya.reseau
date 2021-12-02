@@ -3,6 +3,7 @@ title: Alessia Amighetti
 last_name: Amighetti
 portrait: /assets/images/persons/alessia-amighetti.jpg
 expertise: Conseil en communication éclairée
+validated: true
 categories: [strategie]
 sections:
   - title: Identité

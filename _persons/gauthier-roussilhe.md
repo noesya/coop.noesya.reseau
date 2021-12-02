@@ -3,6 +3,7 @@ title: Gauthier Roussilhe
 last_name: Roussilhe
 portrait: /assets/images/persons/gauthier-roussilhe.jpg
 expertise: Designer et chercheur
+validated: true
 categories:
     - ethique
     - recherche

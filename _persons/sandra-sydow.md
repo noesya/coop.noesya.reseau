@@ -4,6 +4,7 @@ last_name: Sydow
 portrait: /assets/images/persons/sandra-sydow.jpg
 expertise: Founder YNOTNOW Ltd / Co-creator Climate Pitch
 categories: [ethique]
+validated: true
 sections:
   - title: Identité
     content: >

@@ -9,7 +9,7 @@ categories:
 sections:
   - title: Identité
     content: >
-        Entrepreneur & cofounder Open Lande
+        Entrepreneur & cofounder <a href="/organisations/open-lande">Open Lande</a>
 
 
         Economie régénérative
