@@ -1,6 +1,6 @@
 ---
 title: Index Studio
-portrait: /assets/images/organizations/tmp.png
+portrait: /assets/images/organizations/index-studio.png
 categories: [design]
 sections:
   - title: Identité
