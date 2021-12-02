@@ -2,15 +2,15 @@
 title: Sandra Sydow
 last_name: Sydow
 portrait: /assets/images/persons/sandra-sydow.jpg
-expertise: Co-founder Climate Pitch 
+expertise: Founder YNOTNOW Ltd / Co-creator Climate Pitch
 categories: [ethique]
 sections:
   - title: Identité
     content: >
-        Founder / Workshop Leader / Event Speaker & Organiser / SDG Network Lead committed to make a positive impact
+        Founder YNOTNOW Ltd / Co-creator Climate Pitch
 
 
-        Co-founder Climate Pitch
+        Workshop Leader / Event Speaker & Organiser / SDG Network Lead committed to make a positive impact
 
 
         Pushed by an increasing lack of purpose and by a worrying future for my children, I decided to leave a 20+ years' career as leader in the communication industry, both on the client (marketing) and agency side (media) to recognise the need for a more sustainable world and to become an active agent of the biggest transformation yet to happen.
@@ -24,5 +24,5 @@ sections:
   - title: Contact
     content: >
         <a href="https://pitch-climat.fr/" target="_blank" rel="noreferrer">Site</a> –
-        <a href="mailto:svsydow@yahoo.fr" target="_blank" rel="noreferrer">Mail</a>
+        <a href="mailto:sandra.sydow75@gmail.com" target="_blank" rel="noreferrer">Mail</a>
 ---
