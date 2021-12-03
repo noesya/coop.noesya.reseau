@@ -3,6 +3,7 @@ title: David Cazier
 last_name: Cazier
 portrait: /assets/images/persons/david-cazier.jpg
 expertise: Directeur adjoint chez IUT de Haguenau
+validated: true
 categories:
     - recherche
     - tech

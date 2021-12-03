@@ -3,6 +3,7 @@ title: Hélène Chataigner
 last_name: Chataigner
 portrait: /assets/images/persons/helene-chataigner.jpg
 expertise: Art Director & Digital Designer
+validated: true
 categories: [design]
 sections:
   - title: Identité

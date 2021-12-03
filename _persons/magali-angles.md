@@ -3,6 +3,7 @@ title: Magali Anglès
 last_name: Anglès
 portrait: /assets/images/persons/magali-angles.jpg
 expertise: Consultante / Formatrice Numérique
+validated: true
 organization:
 categories: [design]
 sections:
@@ -15,7 +16,7 @@ sections:
 
 
         Early Adopter - Excellente culture numérique - Capacité d'écoute - Empathie - Pédagogue - Adepte du travail en équipe
-        Parfaite maitrise de la suite Office / Hyperplanning / Keynote / Trello / Teams / Slack / Figma / AdobeXD / Worpress
+        Parfaite maitrise de la suite Office / Hyperplanning / Keynote / Trello / Teams / Slack / Figma / AdobeXD / WordPress / Notion / Pitch
   - title: Expériences professionnelles
     content: >
         Formatrice depuis 7 ans auprès des Organismes de formations suivants : IUT MMI, IFB Bordeaux, L'École Multimédia Paris, Digital Campus, Sup de Pub, Epsi/Wis Bordeaux.
