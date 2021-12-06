@@ -3,6 +3,7 @@ title: Laurent Dupont
 last_name: Dupont
 portrait: /assets/images/persons/laurent-dupont.jpg
 expertise: Maître de conférences, Université de Nancy
+validated: true
 categories: [recherche]
 sections:
   - title: Identité

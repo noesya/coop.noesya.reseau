@@ -3,6 +3,7 @@ title: Caroline Defrance
 last_name: Defrance
 portrait: /assets/images/persons/caroline-defrance.jpg
 expertise: Motion design art director
+validated: true
 categories: [design]
 sections:
   - title: Identité

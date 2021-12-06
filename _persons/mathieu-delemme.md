@@ -3,6 +3,7 @@ title: Mathieu Delemme
 last_name: Delemme
 portrait: /assets/images/persons/mathieu-delemme.jpg
 expertise: DG ecedi, SimplonProd et numerik-ea
+validated: true
 categories:
     - ethique
     - tech

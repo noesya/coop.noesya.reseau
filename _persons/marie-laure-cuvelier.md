@@ -3,6 +3,7 @@ title: Marie-Laure Cuvelier
 last_name: Cuvelier
 portrait: /assets/images/persons/marie-laure-cuvelier.jpg
 expertise: Conseillère régionale @ Nouvelle-Aquitaine
+validated: true
 categories: [ethique]
 sections:
   - title: Identité

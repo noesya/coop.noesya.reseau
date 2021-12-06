@@ -3,6 +3,7 @@ title: Geoffrey Dorne
 last_name: Dorne
 portrait: /assets/images/persons/geoffrey-dorne.jpg
 expertise: Designer résilient
+validated: true
 categories:
     - ethique
     - design
