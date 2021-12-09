@@ -3,8 +3,10 @@ title: Christophe Clouzeau
 last_name: Clouzeau
 portrait: /assets/images/persons/christophe-clouzeau.jpg
 expertise: Expert UX - Éco-conception et Numérique Responsable
+validated: true
 categories:
     - design
+    - strategie
     - ethique
 sections:
   - title: Identité
