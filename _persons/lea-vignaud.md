@@ -3,6 +3,7 @@ title: Léa Vignaud
 last_name: Vignaud
 portrait: /assets/images/persons/lea-vignaud.jpg
 expertise: Webdesigner / Intégratrice chez Agence AWAM
+validated: true
 categories:
     - design
     - tech

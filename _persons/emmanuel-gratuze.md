@@ -3,6 +3,7 @@ title: Emmanuel Gratuze
 last_name: Gratuze
 portrait: /assets/images/persons/emmanuel-gratuze.jpg
 expertise: Front-end developer
+validated: true
 categories:
     - tech
     - ethique

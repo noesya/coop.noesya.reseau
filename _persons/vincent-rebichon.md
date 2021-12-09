@@ -3,7 +3,7 @@ title: Vincent Rebichon
 last_name: Rebichon
 portrait: /assets/images/persons/vincent-rebichon.jpg
 expertise: Digital Thinker, ZIMAGES, Fondateur Wazbe.com
-organization:
+validated: true
 categories: [strategie]
 sections:
   - title: Identité

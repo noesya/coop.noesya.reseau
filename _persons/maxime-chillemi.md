@@ -3,6 +3,7 @@ title: Maxime Chillemi
 last_name: Chillemi
 portrait: /assets/images/persons/maxime-chillemi.jpg
 expertise: Visual designer (Art direction & UI Design)
+validated: true
 categories: [design]
 sections:
   - title: Identité
