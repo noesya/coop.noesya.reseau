@@ -7,15 +7,15 @@ categories: [design]
 sections:
   - title: Identité
     content: >
-        Réalisations de vidéos publicitaires, institutionnelles et culturelles.
+        Fondateur des <a href="/organisations/les-pirates">Pirates</a> Production : Création & Réalisations de vidéos publicitaires, institutionnelles et culturelles.
+
+
         Écriture, conseil, tournage, motion design, post-production, diffusion.
 
 
-        Crédit Agricole, Michelin, HSBC, MSD, FFA, YSL, Mérignac, HILTI, Renault, Université de Bordeaux, CHU de Bordeaux, VRI, Bjorg, Aubrilam, Mylan....
-
+        Crédit Agricole, SNCF, Michelin, HSBC, MSD, YSL, Mérignac, HILTI, Renault, Université de Bordeaux, CHU de Bordeaux, Mylan et bien d'autres
   - title: Contact
     content: >
-        <a href="http://www.jbguignot.com" target="_blank" rel="noreferrer">Site personnel</a> –
         <a href="https://lespirates.video" target="_blank" rel="noreferrer">Les Pirates</a> –
-        <a href="mailto:jb.guignot@gmail.com" target="_blank" rel="noreferrer">Mail</a>
+        <a href="mailto:jb@lespirates.video" target="_blank" rel="noreferrer">Mail</a>
 ---
