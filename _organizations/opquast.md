@@ -27,5 +27,5 @@ sections:
 quote:
     from: seb
     text: >
-        La certification Opquast m'a fait progresser professionnellement, je&nbsp;recommande fortement.
+        La certification Opquast nous a tous fait progresser professionnellement, je&nbsp;recommande fortement.
 ---
