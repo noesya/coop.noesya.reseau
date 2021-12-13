@@ -15,5 +15,6 @@ sections:
   - title: Contact
     content: >
         <a href="https://twitter.com/benrobra" target="_blank" rel="noreferrer">Twitter</a> –
-        <a href="https://www.researchgate.net/profile/Ben-Robra" target="_blank" rel="noreferrer">ResearchGate</a>
+        <a href="https://www.researchgate.net/profile/Ben-Robra" target="_blank" rel="noreferrer">ResearchGate</a> –
+        <a href="mailto:ben.robra@uvigo.es" target="_blank" rel="noreferrer">Mail</a>
 ---

@@ -9,10 +9,10 @@ categories:
 sections:
   - title: Identité
     content: >
-        Consultant Développement Durable // Leader à Mission // Lecturer MBASP4 Inseec / SupDePub
+        Consultant Développement Durable // Bilan Carbone // Fresque du Climat // Leader à Mission // Directeur Master « marketing et communication durable » @SupDePub
 
 
-        Collectif de communicants responsables, co-fondé avec Emmanuelle Kerihuel.
+        1987 est un collectif de communicants responsables, co-fondé avec Emmanuelle Kerihuel.
         Nous travaillons à rapprocher des expertises et des organisations qui n’ont pas l’habitude de coopérer ensemble.
         Nous pensons que la créativité et les émotions sont des leviers de changement puissant.
         Nous cherchons à créer une valeur nouvelle et accélérer la transition environnementale et sociétale.
