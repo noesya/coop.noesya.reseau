@@ -11,7 +11,7 @@ sections:
         A combination public and private sector experience based on large scale projects and strategic alliances management driving to new businesses. Proven ability to frame strategic vision, to provide transformational insight through a participative and creative leadership and secure a successful execution. I have a deep knowledge of Entrepreneurship ecosystems, New technologies industries, Education and lean startups.
 
 
-        Startup growth | Community builder | Startup-Corporate Collaboration | Lean Startup Mentor | Talent | Education | TechForGood | La French Tech |
+        Startup growth / Community builder / Startup-Corporate Collaboration / Lean Startup Mentor / Talent / Education / TechForGood / La French Tech
   - title: Contact
     content: >
         <a href="https://www.linkedin.com/in/philippemetayer/" target="_blank" rel="noreferrer">LinkedIn</a> –
