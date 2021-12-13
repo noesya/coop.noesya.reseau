@@ -10,7 +10,7 @@ categories:
 sections:
   - title: Identité
     content: >
-        Co-fondatrice ROSE PRIMAIRE (conseil et formation en communication numérique responsable) - Co-fondatrice Collectif Good IT !
+        Co-fondatrice <a href="/organisations/rose-primaire">Rose Primaire</a> (conseil et formation en communication numérique responsable) - Co-fondatrice Collectif Good IT !
 
 
         15 ans d'expérience en gestion de projets digitaux, communication responsable, accessibilité numérique.

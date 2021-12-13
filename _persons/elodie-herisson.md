@@ -9,7 +9,7 @@ categories:
 sections:
   - title: Identité
     content: >
-        Co-fondatrice de l’agence Rose Primaire.
+        Co-fondatrice de l’agence <a href="/organisations/rose-primaire">Rose Primaire</a>.
 
 
         14 ans d’expérience : agence de communication et conseil, fonction publique territoriale, coopération internationale.
