@@ -1,6 +1,6 @@
 ---
-title:
-last_name:
+title: Antoine Marguerie
+last_name: Marguerie
 portrait: /assets/images/persons/antoine-marguerie.jpg
 expertise: digital product designer
 organization: base-secrete
