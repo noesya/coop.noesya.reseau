@@ -15,5 +15,5 @@ sections:
 quote:
     from: pa
     text: >
-        Elie a très gentiment accepté de nous accompagner sur le sujet des <a href="https://www.noesya.coop/communs-numeriques" target="_blank" rel="noreferrer">communs numériques</a> en partageant son expérience de la qualité Web en faisant partie de notre <a href="https://gouvernance.noesya.coop/comite-strategique" target="_blank" rel="noreferrer">comité stratégique</a>.
+        Elie a très gentiment accepté de nous accompagner sur le sujet des <a href="https://www.noesya.coop/communs-numeriques" target="_blank" rel="noreferrer">communs numériques</a> en partageant son expérience de la qualité Web dans le cadre de notre <a href="https://gouvernance.noesya.coop/comite-strategique" target="_blank" rel="noreferrer">comité stratégique</a>.
 ---
