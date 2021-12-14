@@ -3,6 +3,7 @@ title: Hendrick Rolandez
 last_name: Rolandez
 portrait: /assets/images/persons/hendrick-rolandez.jpg
 expertise: Designer, Art Director
+validated: true
 categories: [design]
 sections:
   - title: Identité
@@ -17,6 +18,6 @@ sections:
 
   - title: Contact
     content: >
-        <a href="http://www.moinzek.com/" target="_blank" rel="noreferrer">Site</a> –
-        <a href="mailto:moinzek25@hotmail.fr" target="_blank" rel="noreferrer">Mail</a>
+        <a href="https://www.moinzek.com" target="_blank" rel="noreferrer">Site</a> –
+        <a href="mailto:hello@moinzek.com" target="_blank" rel="noreferrer">Mail</a>
 ---
