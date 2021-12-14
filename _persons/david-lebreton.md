@@ -4,6 +4,7 @@ last_name: Lebreton
 portrait: /assets/images/persons/david-lebreton.jpg
 expertise: Président et co-fondateur, scénographe et designer chez Designers Unit
 organization: designers-unit
+validated: true
 categories: [design]
 sections:
   - title: Identité

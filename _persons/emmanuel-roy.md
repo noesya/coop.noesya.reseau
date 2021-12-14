@@ -3,6 +3,7 @@ title: Emmanuel Roy
 last_name: Roy
 portrait: /assets/images/persons/emmanuel-roy.jpg
 expertise: Senior Product Designer – Freelance
+validated: true
 categories: [design]
 sections:
   - title: Identité

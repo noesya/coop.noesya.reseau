@@ -3,6 +3,7 @@ title: Benoit Huet
 last_name: Huet
 portrait: /assets/images/persons/benoit-huet.jpg
 expertise: Avocat au barreau de Paris
+validated: true
 categories:
     - strategie
     - ethique

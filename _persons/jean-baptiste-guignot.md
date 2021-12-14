@@ -3,6 +3,7 @@ title: Jean-Baptiste Guignot
 last_name: Guignot
 portrait: /assets/images/persons/jean-baptiste-guignot.jpg
 expertise: Capitaine - Les Pirates, Associé - Corsaires Studio
+validated: true
 categories: [design]
 sections:
   - title: Identité

@@ -3,6 +3,7 @@ title: Antoine アントワン Pastor パストル
 last_name: Pastor
 portrait: /assets/images/persons/antoine-pastor.jpg
 expertise: Consultant en stratégie de marque
+validated: true
 categories: [strategie]
 sections:
   - title: Identité

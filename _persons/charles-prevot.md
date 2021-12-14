@@ -3,6 +3,7 @@ title: Charles Prévôt
 last_name: Prévôt
 portrait: /assets/images/persons/charles-prevot.jpg
 expertise: Co-fondateur de Reboot! et de plutot.cool
+validated: true
 categories:
     - strategie
 sections:

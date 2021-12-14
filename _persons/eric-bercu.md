@@ -3,8 +3,8 @@ title: Eric Berçu
 last_name: Berçu
 portrait: /assets/images/persons/eric-bercu.jpg
 expertise: Expert comptable - Commissaire aux comptes
-categories: [strategie]
 validated: true
+categories: [strategie]
 sections:
   - title: Identité
     content: >

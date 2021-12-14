@@ -3,6 +3,7 @@ title: Jade Vincent
 last_name: Vincent
 portrait: /assets/images/persons/jade-vincent.jpg
 expertise: Co-fondatrice ROSE PRIMAIRE - Co-fondatrice Collectif Good IT !
+validated: true
 categories:
     - tech
     - ethique

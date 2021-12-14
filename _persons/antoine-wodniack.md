@@ -3,6 +3,7 @@ title: Antoine Wodniack
 last_name: Wodniack
 portrait: /assets/images/persons/antoine-wodniack.jpg
 expertise: Senior Front-End Developer
+validated: true
 categories: [tech]
 sections:
   - title: Identité

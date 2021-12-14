@@ -3,6 +3,7 @@ title: Daniela Peñaranda
 last_name: Peñaranda
 portrait: /assets/images/persons/daniela-penaranda.jpg
 expertise: Designer UX & UI
+validated: true
 categories:
     - recherche
     - design

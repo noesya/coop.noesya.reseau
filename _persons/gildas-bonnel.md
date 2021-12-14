@@ -3,6 +3,7 @@ title: Gildas Bonnel
 last_name: Bonnel
 portrait: /assets/images/persons/gildas-bonnel.jpg
 expertise: Président Sidièse
+validated: true
 categories: [strategie]
 sections:
   - title: Identité

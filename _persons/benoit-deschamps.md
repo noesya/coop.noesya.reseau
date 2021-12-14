@@ -3,6 +3,7 @@ title: Benoit Deschamps
 last_name: Deschamps
 portrait: /assets/images/persons/benoit-deschamps.jpg
 expertise: Freelance Art Director
+validated: true
 categories: [design]
 sections:
   - title: Identité

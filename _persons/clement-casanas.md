@@ -3,8 +3,8 @@ title: Clément Casanas
 last_name: Casanas
 portrait: /assets/images/persons/clement-casanas.jpg
 expertise: Directeur artistique multidisciplinaire
-categories: [design]
 validated: true
+categories: [design]
 sections:
   - title: Identité
     content: >

@@ -3,6 +3,7 @@ title: Antoine Schirer
 last_name: Schirer
 portrait: /assets/images/persons/antoine-schirer.jpg
 expertise: journalist & filmmaker
+validated: true
 categories:
     - design
     - ethique

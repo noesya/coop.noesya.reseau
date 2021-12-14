@@ -3,6 +3,7 @@ title: Céline Réveillac
 last_name: Réveillac
 portrait: /assets/images/persons/celine-reveillac.jpg
 expertise: Communication {plus responsable}
+validated: true
 categories:
     - strategie
     - ethique

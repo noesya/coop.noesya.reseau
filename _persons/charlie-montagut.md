@@ -3,6 +3,7 @@ title: Charlie Montagut
 last_name: Montagut
 portrait: /assets/images/persons/charlie-montagut.jpg
 expertise: Creative / Art Director / film Director
+validated: true
 organization:
 categories: [design]
 sections:

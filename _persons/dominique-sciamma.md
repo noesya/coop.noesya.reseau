@@ -3,6 +3,7 @@ title: Dominique Sciamma
 last_name: Sciamma
 portrait: /assets/images/persons/dominique-sciamma.jpg
 expertise: Director, CY école de design & President, APCI
+validated: true
 categories:
     - design
     - ethique

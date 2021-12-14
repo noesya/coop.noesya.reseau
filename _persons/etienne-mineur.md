@@ -3,6 +3,7 @@ title: Etienne Mineur
 last_name: Mineur
 portrait: /assets/images/persons/etienne-mineur.jpg
 expertise: designer / creative director
+validated: true
 categories:
     - design
     - recherche

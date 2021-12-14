@@ -3,6 +3,7 @@ title: Elodie Hérisson
 last_name: Hérisson
 portrait: /assets/images/persons/elodie-herisson.jpg
 expertise: Co-fondatrice de l’agence Rose Primaire
+validated: true
 categories:
     - strategie
     - ethique

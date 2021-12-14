@@ -3,6 +3,7 @@ title: Marina Zuber
 last_name: Zuber
 portrait: /assets/images/persons/marina-zuber.jpg
 expertise: Brand Strategist and Marketer
+validated: true
 organization:
 categories: [strategie]
 sections:

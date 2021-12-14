@@ -3,6 +3,7 @@ title: Alan Gampel
 last_name: Gampel
 portrait: /assets/images/persons/alan-gampel.jpg
 expertise: Pianiste concertiste, docteur en musicologie
+validated: true
 categories: [ethique]
 sections:
   - title: Identité

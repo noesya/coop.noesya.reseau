@@ -3,6 +3,7 @@ title: Elsa Secco
 last_name: Secco
 portrait: /assets/images/persons/elsa-secco.jpg
 expertise: Freelance Art Director - Motion Designer
+validated: true
 categories: [design]
 sections:
   - title: Identité
