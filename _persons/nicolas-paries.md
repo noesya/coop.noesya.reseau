@@ -19,7 +19,7 @@ sections:
         _ Digital Design
 
 
-        _________Design shouldn't just look good it should do good as well_________
+        *Design shouldn't just look good it should do good as well*
 
 
         I help people telling their story. Now with a focus on sustainable projects for social & environmental good.
