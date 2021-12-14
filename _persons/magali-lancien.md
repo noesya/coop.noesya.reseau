@@ -3,6 +3,7 @@ title: Magali Lancien
 last_name: Lancien
 portrait: /assets/images/persons/magali-lancien.jpg
 expertise: Déléguée générale chez French Craft Guild
+validated: true
 organization: french-craft-guild
 categories: [strategie]
 sections:

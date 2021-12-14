@@ -3,6 +3,7 @@ title: Marie-Cécile Godwin
 last_name: Godwin
 portrait: /assets/images/persons/marie-cecile-godwin.jpg
 expertise: Designer, UX Researcher et enseignante
+validated: true
 categories:
     - ethique
     - design

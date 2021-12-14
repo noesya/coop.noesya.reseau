@@ -3,6 +3,7 @@ title: Manuel Perret
 last_name: Perret
 portrait: /assets/images/persons/manuel-perret.jpg
 expertise: Freelance Art Director
+validated: true
 categories: [design]
 sections:
   - title: Identité

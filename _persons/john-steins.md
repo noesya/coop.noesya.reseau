@@ -3,6 +3,7 @@ title: John Steins
 last_name: Steins
 portrait: /assets/images/persons/john-steins.jpg
 expertise: Artist & printmaker
+validated: true
 categories: [design]
 sections:
   - title: Identité

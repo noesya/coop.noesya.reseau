@@ -3,6 +3,7 @@ title: Alexandre Dupeyron
 last_name: Dupeyron
 portrait: /assets/images/persons/alexandre-dupeyron.jpg
 expertise: Independant Photographer
+validated: true
 categories: [design]
 sections:
   - title: Identité

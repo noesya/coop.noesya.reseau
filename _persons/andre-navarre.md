@@ -3,6 +3,7 @@ title: André Navarre
 last_name: Navarre
 portrait: /assets/images/persons/andre-navarre.jpg
 expertise: Motion Designer / 2D Animator
+validated: true
 categories: [design]
 sections:
   - title: Identité

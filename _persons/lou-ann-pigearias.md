@@ -3,6 +3,7 @@ title: Lou-Ann Pigearias
 last_name: Pigearias
 portrait: /assets/images/persons/lou-ann-pigearias.jpg
 expertise: Fashion photographer
+validated: true
 categories: [design]
 sections:
   - title: Identité
