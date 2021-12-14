@@ -1,5 +1,5 @@
 ---
-title: Le French Tech
+title: La French Tech
 portrait: /assets/images/organizations/french-tech.png
 categories: [tech]
 sections:
