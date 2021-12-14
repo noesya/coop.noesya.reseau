@@ -21,4 +21,7 @@ sections:
   - title: Contact
     content: >
         <a href="https://www.ademe.fr" target="_blank" rel="noreferrer">Site</a>
+quote:
+  from: arnaud
+  text: Un acteur absolument incontournable !
 ---

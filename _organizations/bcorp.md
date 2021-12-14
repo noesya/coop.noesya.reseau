@@ -1,5 +1,5 @@
 ---
-title: B Corp
+title: B Lab France
 portrait: /assets/images/organizations/bcorp.png
 categories: [ethique]
 sections:
@@ -14,4 +14,7 @@ sections:
   - title: Contact
     content: >
         <a href="https://www.bcorporation.fr/" target="_blank" rel="noreferrer">Site</a>
+quote:
+  from: pa
+  text: Le B Impact Assessment nous a beaucoup aidé lors de la création de noesya, c'est un questionnement structurant
 ---

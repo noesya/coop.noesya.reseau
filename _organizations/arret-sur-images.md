@@ -21,4 +21,7 @@ sections:
   - title: Contact
     content: >
         <a href="https://www.arretsurimages.net/" target="_blank" rel="noreferrer">Site</a>
+quote:
+  from: arnaud
+  text: L'éducation aux médias, un travail d'utilité publique :)
 ---
