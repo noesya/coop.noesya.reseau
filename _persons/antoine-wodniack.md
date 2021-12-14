@@ -15,5 +15,5 @@ sections:
   - title: Contact
     content: >
         <a href="https://wodniack.dev/" target="_blank" rel="noreferrer">Site</a> –
-        <a href="mailto:antoine@wodniack.fr" target="_blank" rel="noreferrer">Mail</a>
+        <a href="mailto:hello@wodniack.dev" target="_blank" rel="noreferrer">Mail</a>
 ---
