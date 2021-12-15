@@ -2,25 +2,14 @@
 title: Sophie Lesaint
 last_name: Lesaint
 portrait: /assets/images/persons/sophie-lesaint.jpg
-expertise: Consultante SEO indépendant
+expertise: Technical SEO Specialist
 categories: [strategie]
 sections:
   - title: Identité
     content: >
-        Consultante SEO indépendant
-
-
-        Référencement SEO et Webmarketing 👩‍💻
-
-
-        Forte de plusieurs années d'expérience en agence et site e-commerce en tant que responsable SEO, je propose de l'accompagnement et de la formation pour votre référencement naturel. Boostez votre visibilité sur Google ! 🚀
-
-
-        SEO local, SEO technique, SEO de contenu...il existe une multitude de manières d'accroître votre visibilité sur les moteurs de recherche selon votre activité. Profitez de mes années d'expérience sur des marchés ultra-concurrentiels et faisons progresser votre business en ligne ensemble !
-        Efficacité, disponibilité et pédagogie sont mes maîtres mots.
-
+        Technical SEO Specialist, j'accompagne les entreprises dans leur croissance sur le web en leur proposant une stratégie d'acquisition d'audience SEO. Forte de plusieurs années d’expériences sur des marchés variés et concurrentiels, je propose aujourd'hui des missions de référencement naturel technique, sémantique et off-site. Je peux être sollicitée dans le cadre d'un temps fort, d'une refonte, d'une mise en ligne, d'une migration ou tout simplement pour un besoin d'optimisation de visibilité. Efficacité, disponibilité et pédagogie sont mes maîtres mots.
   - title: Contact
     content: >
-        <a href="" target="_blank" rel="noreferrer">Site</a> –
-        <a href="mailto:" target="_blank" rel="noreferrer">Mail</a>
+        <a href="https://www.malt.fr/profile/sophielesaint" target="_blank" rel="noreferrer">Site</a> –
+        <a href="mailto:lesaintsrc@gmail.com" target="_blank" rel="noreferrer">Mail</a>
 ---
