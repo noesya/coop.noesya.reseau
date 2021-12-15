@@ -3,6 +3,7 @@ window.search = {
         'use strict';
         this.input = document.querySelector('[role="search"] input');
         this.items = document.querySelectorAll('article');
+        this.body = document.querySelector('body');
 
         if (!this.input) {
             return null;
@@ -26,18 +27,18 @@ window.search = {
         'use strict';
         var i = 0,
             string = _string.toLowerCase();
-
+        this.body.classList['add']('searching');
         for (i = 0; i < this.items.length; i += 1) {
-            this.toggle(this.items[i], string);
+            this.analyzeArticle(this.items[i], string);
         }
     },
-    toggle: function (item, string) {
+    analyzeArticle: function (item, string) {
         'use strict';
         var content = item.innerHTML
                 .replace(/<[^>]*>/g, '')
                 .toLowerCase(),
             action = content.indexOf(string) === -1 ? 'add' : 'remove';
-        item.classList[action]('is-hidden');
+        item.classList[action]('not-in-search');
     }
 };
 
