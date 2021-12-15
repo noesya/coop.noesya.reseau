@@ -15,14 +15,7 @@ class: work
   </div>
 </header>
 
-<section class="toc">
-  <ol role="navigation">
-    <li><a href="#personnes">{{ persons.size }} personnes</a></li>
-    {% if organizations.size > 0 %}
-      <li><a href="#organisations">{{ organizations.size }} organisations</a></li>
-    {% endif %}
-  </ol>
-</section>
+{% include toc.html %}
 
 <section class="members">
   <h2 id="personnes">Personnes</h2>
