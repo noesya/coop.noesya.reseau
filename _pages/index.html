@@ -6,9 +6,6 @@ layout: default
 permalink: /
 ---
 
-{% assign persons = site.persons | sort: 'last_name' %}
-{% assign organizations = site.organizations | sort: 'title' %}
-
 <header>
   <div>
     <h1>{{page.description}}</h1>
@@ -21,18 +18,6 @@ permalink: /
   </div>
 </header>
 
-{% include toc.html %}
-
-<section class="members">
-  <h2 id="personnes">Personnes</h2>
-  {% for person in persons %}
-    {% include member.html member=person %}
-  {% endfor %}
-</section>
-
-<section class="members">
-  <h2 id="organisations">Organisations</h2>
-  {% for organization in organizations %}
-    {% include member.html member=organization %}
-  {% endfor %}
-</section>
+{% assign persons = site.persons | sort: 'last_name' %}
+{% assign organizations = site.organizations | sort: 'title' %}
+{% include list.html %}
