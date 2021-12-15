@@ -3,9 +3,6 @@ layout: default
 class: work
 ---
 
-{% assign persons = site.persons | where: 'categories', page.slug | sort: 'last_name' %}
-{% assign organizations = site.organizations | where: 'categories', page.slug | sort: 'title' %}
-
 <header>
   <div>
     <h1>{{page.title}}</h1>
@@ -15,27 +12,6 @@ class: work
   </div>
 </header>
 
-<section class="toc">
-  <ol role="navigation">
-    <li><a href="#personnes">{{ persons.size }} personnes</a></li>
-    {% if organizations.size > 0 %}
-      <li><a href="#organisations">{{ organizations.size }} organisations</a></li>
-    {% endif %}
-  </ol>
-</section>
-
-<section class="members">
-  <h2 id="personnes">Personnes</h2>
-  {% for person in persons %}
-    {% include member.html member=person %}
-  {% endfor %}
-</section>
-
-{% if organizations.size > 0 %}
-  <section class="members">
-    <h2 id="organisations">Organisations</h2>
-    {% for organization in organizations %}
-      {% include member.html member=organization %}
-    {% endfor %}
-  </section>
-{% endif %}
+{% assign persons = site.persons | where: 'categories', page.slug | sort: 'last_name' %}
+{% assign organizations = site.organizations | where: 'categories', page.slug | sort: 'title' %}
+{% include list.html %}
