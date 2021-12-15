@@ -15,9 +15,8 @@ window.search = {
         'use strict';
 
         this.input.addEventListener('input', function () {
-            if (this.input.value.length > 0) {
-                this.search(this.input.value);
-            } else {
+            this.search(this.input.value);
+            if (this.input.value.length === 0) {
                 this.body.classList.remove('searching');
             }
         }.bind(this));
