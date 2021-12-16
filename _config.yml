@@ -52,7 +52,7 @@ collections:
     permalink: /:slug
   persons:
     output: true
-    sort_by: title
+    sort_by: last_name
     permalink: /personnes/:slug
   organizations:
     output: true
