@@ -20,25 +20,6 @@ permalink: /
   </div>
 </header>
 
-<section class="toc">
-  <ol role="navigation">
-    <li><a href="#personnes">{{site.persons.size }} personnes</a></li>
-    <li><a href="#organisations">{{site.organizations.size }} organisations</a></li>
-  </ol>
-</section>
-
-<section class="members">
-  <h2 id="personnes">Personnes</h2>
-  {% assign persons = site.persons | sort: 'last_name' %}
-  {% for person in persons %}
-    {% include member.html member=person %}
-  {% endfor %}
-</section>
-
-<section class="members">
-  <h2 id="organisations">Organisations</h2>
-  {% assign organizations = site.organizations | sort: 'title' %}
-  {% for organization in organizations %}
-    {% include member.html member=organization %}
-  {% endfor %}
-</section>
+{% assign persons = site.persons | sort: 'last_name' %}
+{% assign organizations = site.organizations | sort: 'title' %}
+{% include list.html %}
