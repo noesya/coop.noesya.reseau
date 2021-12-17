@@ -8,17 +8,11 @@ categories: [design]
 sections:
   - title: Identité
     content: >
-        Since 1993.
+        co-fondateur du collectif <a href="/organisations/jeudimatin">Jeudimatin</a>
 
 
-        Worked with: Jeudimatin - Bureau347 - Central Design - Digital Park - Belighted - Emakina - Antidot - Andersen Consulting - Digital Age Design - DDB Digital - Magic Media - Net it be
-
-
-        For clients like: Les Filles Cusisinent, Renault Belgique Luxembourg, Renault Retail Group, Les Jeux d'hiver, Compermed, The Skin Practise, TreeTop Asset Management, Atout France, BNP Paribas Fortis, Publicis, SMartEu, Réunion des Musées Nationaux, Magnum Photos, Blowup Photos, Computerlove.net, Greatshare, Helb Ilya Prigogine, Créa-Helb, Matra Hachette Multimedia, XL Centre Culturel, Forest Centre Culturel, Centre Culturel Jacques Franck, Subrosa, Le Bonheur épicerie audio-visuelle, Vincent detour & Dominique henry, Cimatics\AV\Platform, Cimatics\AV\Festival, Encore Bruxelles, L’Echo, Perspectives asbl, Toyota Belgique, VW, Seat, VW transporter, Belgacom, Scarlet, Royal Air Maroc, Chimay, Cora, Arkaos, DreamIt, Cit Express, Jetro, Euroqualification Library, Conrad International Hotel, Mobic, Région Wallonne, European Commission, L'abbaye de Villers-la-Ville.
-
-
-        Specialties: Facilitator, Design coordinator
-
+        Depuis 1994, Pascal a exercé les métiers de designer numérique, de facilitateur de projet design, de conseiller en cultures digitales, de curateur et d’enseignant en écriture interactive.
+        Aujourd’hui, il se consacre à l’éco-conception de services web et mobiles, à "la sobriété numérique" et à la recherche-action autour de la conception responsable.
   - title: Contact
     content: >
         <a href="https://jeudimatin.design/" target="_blank" rel="noreferrer">Site</a> –
