@@ -27,4 +27,9 @@ sections:
         <a href="https://www.behance.net/clementcasanas" target="_blank" rel="noreferrer">Behance</a> –
         <a href="https://dribbble.com/Clement_Casanas" target="_blank" rel="noreferrer">Dribbble</a> –
         <a href="mailto:clementcasanas@gmail.com" target="_blank" rel="noreferrer">Mail</a>
+
+quote:
+    from: alex
+    text: >
+        Directeur artistique pour qui chaque détail compte, Clément ne laisse rien au hasard et met tout son cœur et son talent dans ses productions ! Nous créons des sites et expériences interactives avec Clément depuis 2015, et ce n'est pas près de s'arrêter.
 ---

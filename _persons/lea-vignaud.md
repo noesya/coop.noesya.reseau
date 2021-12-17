@@ -14,4 +14,9 @@ sections:
   - title: Contact
     content: >
         <a href="https://twitter.com/lvignaud" target="_blank" rel="noreferrer">Twitter</a>
+
+quote:
+    from: alex
+    text: >
+        À la fois créative et technique, Léa conçoit, design, puis développe des sites et e-commerces avec un grand professionnalisme.
 ---

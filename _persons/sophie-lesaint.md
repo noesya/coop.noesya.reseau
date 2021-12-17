@@ -12,4 +12,9 @@ sections:
     content: >
         <a href="https://www.malt.fr/profile/sophielesaint" target="_blank" rel="noreferrer">Site</a> –
         <a href="mailto:lesaintsrc@gmail.com" target="_blank" rel="noreferrer">Mail</a>
+
+# quote:
+#     from: alex
+#     text: >
+#         Sophie 
 ---

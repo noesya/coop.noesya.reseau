@@ -16,8 +16,14 @@ sections:
         I'm especially open to projects:
         - using React 🚀
         - serving an ethical or environmental cause 🌳
+
   - title: Contact
     content: >
         <a href="https://emmanuel.digital/" target="_blank" rel="noreferrer">Site</a> –
         <a href="mailto:emmanuel.gratuze@gmail.com" target="_blank" rel="noreferrer">Mail</a>
+
+quote:
+    from: alex
+    text: >
+        Ami de longue date, cela fait plus de quinze ans que nos partageons la passion du code et de la musique, Emmanuel est un développeur éthique et un musicien d'exception.
 ---
