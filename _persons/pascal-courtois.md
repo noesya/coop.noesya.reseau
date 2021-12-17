@@ -8,7 +8,7 @@ categories: [design]
 sections:
   - title: Identité
     content: >
-        co-fondateur du collectif Jeudimatin
+        co-fondateur du collectif <a href="/organisations/jeudimatin">Jeudimatin</a>
 
 
         Depuis 1994, Pascal a exercé les métiers de designer numérique, de facilitateur de projet design, de conseiller en cultures digitales, de curateur et d’enseignant en écriture interactive.
