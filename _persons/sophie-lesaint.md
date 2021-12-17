@@ -13,8 +13,8 @@ sections:
         <a href="https://www.malt.fr/profile/sophielesaint" target="_blank" rel="noreferrer">Site</a> –
         <a href="mailto:lesaintsrc@gmail.com" target="_blank" rel="noreferrer">Mail</a>
 
-# quote:
-#     from: alex
-#     text: >
-#         Sophie 
+quote:
+    from: alex
+    text: >
+        Spécialiste en SEO, Sophie est incollable sur les questions de référencement. C'est toujours un plaisir de collaborer pour un projet client ou avec les étudiants MMI à Bordeaux.
 ---
