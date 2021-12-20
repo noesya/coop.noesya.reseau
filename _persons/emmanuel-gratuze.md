@@ -25,5 +25,5 @@ sections:
 quote:
     from: alex
     text: >
-        Ami de longue date, cela fait plus de quinze ans que nos partageons la passion du code et de la musique, Emmanuel est un développeur éthique et un musicien d'exception.
+        Ami de longue date, cela fait plus de quinze ans que nos partageons la passion du code et de la musique. Emmanuel est un développeur éthique et un musicien d'exception.
 ---
