@@ -22,4 +22,8 @@ sections:
     content: >
         <a href="https://lumeparis.com/" target="_blank" rel="noreferrer">Site</a> –
         <a href="mailto:ecrire@lumeparis.com" target="_blank" rel="noreferrer">Mail</a>
+quote:
+    from: pa
+    text: >
+        Nous avons très bien travaillé sur le site lafite.com il y a quelques années. Alessia est maintenant sur un nouveau projet tout à fait aligné avec nos propres projets.
 ---

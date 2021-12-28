@@ -15,4 +15,8 @@ sections:
     content: >
         <a href="https://www.linkedin.com/in/kylanvutong/" target="_blank" rel="noreferrer">LinkedIn</a> –
         <a href="mailto:kylan.vutong@gmail.com" target="_blank" rel="noreferrer">Mail</a>
+quote:
+    from: pa
+    text: >
+        Ky Lân a un grand talent et est toujours en recherche de sujets inspirants. Je suis sûr qu'il participe aujourd'hui à inventer nos usages du numérique de demain.
 ---

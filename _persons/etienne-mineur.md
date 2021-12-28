@@ -35,4 +35,8 @@ sections:
     content: >
         <a href="https://etienne.design/" target="_blank" rel="noreferrer">Site</a> –
         <a href="mailto:etienne@volumique.com" target="_blank" rel="noreferrer">Mail</a>
+quote:
+    from: pa
+    text: >
+        Étienne est le roi du jeu ! La personne la plus cultivée sur le sujet que je connaisse, il est passionné par toutes les formes de jeu,  physique comme digital, et mélange les deux avec un grand talent.
 ---

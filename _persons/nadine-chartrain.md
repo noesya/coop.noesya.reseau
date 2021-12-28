@@ -12,4 +12,8 @@ sections:
     content: >
         <a href="https://www.efigie.fr/" target="_blank" rel="noreferrer">Site</a> –
         <a href="mailto:nadine.chartrain@efigie.fr" target="_blank" rel="noreferrer">Mail</a>
+quote:
+    from: pa
+    text: >
+        Après avoir appris à connaître Nadine nous ne voulions personne d'autre pour s'occuper de noesya ! Et Nadine a en plus acdepté de faire partie de notre <a href="https://gouvernance.noesya.coop/comite-strategique" target="_blank" rel="noreferrer">comité stratégique</a>.
 ---

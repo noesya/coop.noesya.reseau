@@ -18,4 +18,8 @@ sections:
         <a href="https://wazbe.com" target="_blank" rel="noreferrer">Site Wazbe.com</a> –
         <a href="https://www.zimages.fr" target="_blank" rel="noreferrer">Site ZIMAGES</a> –
         <a href="mailto:vincent.rebichon@gmail.com" target="_blank" rel="noreferrer">Mail</a>
+quote:
+    from: pa
+    text: >
+        Vincent est un vieux copain, et je suis assez fan de ses projets !
 ---

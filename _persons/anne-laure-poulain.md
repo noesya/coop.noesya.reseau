@@ -13,4 +13,8 @@ sections:
     content: >
         <a href="http://www.annelaure-poulain.com" target="_blank" rel="noreferrer">Site</a> –
         <a href="mailto:hello@annelaure-poulain.com" target="_blank" rel="noreferrer">Mail</a>
+quote:
+    from: pa
+    text: >
+        On a longtemps travaillé ensemble, et c'est systématiquement un plaisir.
 ---

@@ -32,4 +32,8 @@ sections:
         <a href="https://clintagency.com/" target="_blank" rel="noreferrer">Site Clint</a> –
         <a href="https://designsprint.paris/" target="_blank" rel="noreferrer">Site Designsprint</a> –
         <a href="https://twitter.com/AlexRoubz" target="_blank" rel="noreferrer">Twitter</a>
+quote:
+    from: pa
+    text: >
+        Ça fait bien longtemps qu'on se connait avec Alex, et on partage une même vision de beaucoup de choses. Une belle rencontre !
 ---

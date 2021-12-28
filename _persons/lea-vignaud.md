@@ -18,5 +18,5 @@ sections:
 quote:
     from: alex
     text: >
-        À la fois créative et technique, Léa conçoit, design, puis développe des sites et e-commerces avec une efficacité et une adaptation sans égal ! Et c'est aussi l'incarnation de la joie de vivre.
+        À la fois créative et technique, Léa conçoit, design, puis développe des sites et e-commerces avec une efficacité et une adaptation sans égales ! Et c'est aussi l'incarnation de la joie de vivre.
 ---
