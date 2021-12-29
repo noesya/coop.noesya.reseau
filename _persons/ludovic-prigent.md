@@ -15,7 +15,7 @@ sections:
         <a href="https://www.ilkflottante.com/" target="_blank" rel="noreferrer">Site</a> –
         <a href="mailto:ilkflottante@gmail.com" target="_blank" rel="noreferrer">Mail</a>
 quote:
-    from: sébastien
+    from: seb
     text: >
         Un artiste accompli dans un univers très coloré ! C'est également un ami de longue date.
 ---

@@ -8,10 +8,20 @@ categories: [tech]
 sections:
   - title: Identité
     content: >
-        Développeuse web front-end et back-end engagée.
+        Développeuse web, spécialisée front-end. 
+
+        J’ai découvert le web en 2016 en me formant chez Simplon.co, j’intègre ensuite le master développement web de l’ECV Digital Paris en alternance chez Viens-là. Diplômée en juin 2019, je rejoins l’équipe de Zelda en tant que développeuse web.
+
+        🔗 Vue.js, Strapi
+
+        ✨ Animations, performances, a11y
+
+        🥰 Projets avec un impact social
 
 
-        J’ai découvert le web en 2016 en me formant chez Simplon.co, à la suite de cette formation, j’intègre Zelda, une agence de communication en tant que développeuse web. En 2017 je décide de reprendre un master de développement web avec l’ECV Digital en alternance chez Viens-là. Diplômée en juin 2019, je ré-intègre l’équipe de Zelda en tant que développeuse web, et co-fonde <a href="https://liwi.fr/" target="_blank" rel="noreferrer">Liwi</a> avec Manon Valdonio.
+        & je garde un vieil amour pour la création de thème Wordpress.
+
+        Aujourd’hui à mon compte, je co-fonde Liwi et m’implique pour féminiser la tech.
 
   - title: Contact
     content: >
