@@ -11,13 +11,6 @@
     header
         @include grid(12)
         padding-bottom: 50px
-        @include media-breakpoint-down(md)
-            background-image: url('../images/chouette/large-crop.webp')
-            background-position: 100% 100%
-            background-repeat: no-repeat
-            background-size: 100px auto
-            .no-webp &
-                background-image: url('../images/chouette/large-crop.png')
         > div
             &:nth-child(1)
                 grid-column: 1/8
@@ -30,3 +23,24 @@
             margin-bottom: 50px
             @include media-breakpoint-down(md)
                 font-size: px2rem(33)
+    .toc
+        @include media-breakpoint-down(md)
+            position: relative
+            input
+                position: relative
+                width: calc(100% - 80px)
+                z-index: 2
+            &::after
+                background-image: url('../images/chouette/large-crop.webp')
+                background-position: 100% 100%
+                background-repeat: no-repeat
+                background-size: 100px auto
+                bottom: 0
+                content: ''
+                display: block
+                height: 290px
+                position: absolute
+                right: 0
+                width: 100px
+                .no-webp &
+                    background-image: url('../images/chouette/large-crop.png')
