@@ -18,4 +18,8 @@ sections:
   - title: Contact
     content: >
         <a href="https://johanneltabet.fr" target="_blank" rel="noreferrer">Site</a>
+quote:
+    from: seb
+    text: >
+        On a partagé pendant longtemps notre espace de travail, enthousiaste et très bon intégrateur.
 ---
