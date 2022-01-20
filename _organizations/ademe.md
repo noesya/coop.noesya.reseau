@@ -23,5 +23,5 @@ sections:
         <a href="https://www.ademe.fr" target="_blank" rel="noreferrer">Site</a>
 quote:
   from: arnaud
-  text: Un acteur absolument incontournable !
+  text: Un acteur absolument incontournable, notre phare dans la nuit !
 ---
