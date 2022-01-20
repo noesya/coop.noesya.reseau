@@ -12,4 +12,7 @@ sections:
   - title: Contact
     content: >
         <a href="https://institutnr.org/" target="_blank" rel="noreferrer">Site</a>
+quote:
+  from: arnaud
+  text: Nous sommes fiers d'adhérer à l'INR et de contribuer à un numérique plus sobre, plus inclusif et plus durable.
 ---
