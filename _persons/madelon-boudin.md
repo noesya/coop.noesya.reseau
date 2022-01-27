@@ -8,10 +8,14 @@ categories: [strategie]
 sections:
   - title: Identité
     content: >
-      Planneur stratégique Freelance & Intervenante Stratégie Digitale 🌿
+      Planneur stratégique Freelance & Intervenante en stratégie.
 
 
-      French girl with a strong accent, I'm in love with strategic planning, social media (and Manuel Neuer). Available in freelance to work on your wonderful project 💥
+      I'm a French girl with a strong accent in love with Strategic Planning, Social media and Manuel Neuer.
+
+
+
+      Open-minded, empowered and emphatic, I'm interested in consumer behaviour and brand strategy. Web designer & project manager in a previous life, I was trained to do, create, feel and test. I like to immerse myself totally in unknown worlds. I have this visceral need to grasp the Why and understand what surrounds me - which sometimes opens incongruous doors.
   - title: Contact
     content: >
         <a href="https://madelonboudin.myportfolio.com/" target="_blank" rel="noreferrer">Site</a> –
