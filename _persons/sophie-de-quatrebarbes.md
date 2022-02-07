@@ -4,7 +4,7 @@ last_name: de Quatrebarbes
 portrait: /assets/images/persons/sophie-de-quatrebarbes.jpg
 expertise: Créatrice de S24B, L'interactive
 organization:
-categories: [design]
+categories: [strategie]
 sections:
   - title: Identité
     content: >
