@@ -5,10 +5,11 @@ sites:
       url: https://gouvernance.noesya.coop
     - title: diagnostic
       url: https://diagnostic.noesya.coop
+    - title: lab
+      url: https://lab.noesya.coop
     - title: réseau
       url: https://reseau.noesya.coop
     - title: histoires
     - title: stack
     - title: méthode
     - title: works
-    - title: lab
