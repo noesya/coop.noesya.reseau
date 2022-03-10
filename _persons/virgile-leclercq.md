@@ -2,7 +2,7 @@
 title: Virgile Leclercq
 last_name: Leclercq
 portrait: /assets/images/persons/virgile-leclercq.jpg
-expertise: Cofondateur de Ctrl S.
+expertise: Cofondateur de Ctrl S
 validated: true
 categories:
     - design
@@ -23,7 +23,7 @@ sections:
 
   - title: Contact
     content: >
-        <a href="http://www.ctrls.studio/" target="_blank" rel="noreferrer">Site</a> –
+        <a href="http://www.ctrls.studio" target="_blank" rel="noreferrer">Site</a> –
         <a href="https://www.linkedin.com/in/virgile-leclercq-20a272a3/" target="_blank" rel="noreferrer">LinkedIn</a> –
         <a href="https://twitter.com/virglcq" target="_blank" rel="noreferrer">Twitter</a>
 ---

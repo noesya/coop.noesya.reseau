@@ -20,7 +20,7 @@ sections:
 
   - title: Contact
     content: >
-        <a href="https://www.ctrls.studio/" target="_blank" rel="noreferrer">Site</a> –
+        <a href="https://www.ctrls.studio" target="_blank" rel="noreferrer">Site</a> –
         <a href="https://www.linkedin.com/in/romane-clement/" target="_blank" rel="noreferrer">LinkedIn</a> –
         <a href="https://twitter.com/RomaneCtrlS" target="_blank" rel="noreferrer">Twitter</a>
 ---
