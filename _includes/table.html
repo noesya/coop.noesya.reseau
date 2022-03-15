@@ -1,47 +1,15 @@
-<style>
-    table {
-        border: 1px solid #000;
-    }
-    thead {
-        background: grey;
-    }
-    td {
-        border-right: 1px solid #000;
-    }
-</style>
 
-<script type="text/javascript">
-  document.querySelectorAll("pre").onclick = function (){
-    this.select();
-    document.execCommand('copy');
-  }
-</script>
-
-<table>
-    <thead>
-        <tr>
-            <th>Prénom Nom</th>
-            <th>Post</th>
-            <th>Date</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for person in persons %}
-            <tr>
-                <td>{{ person.title }}</td>
-                <td>
-                    <pre>
-                        Aujourd'hui nous vous présentons {{ person.title }}.
-                        {{ person.expertise }}
-                        {% assign description = person.sections | first %}
-                        {{ description.content }}
-                        {{ person.url | absolute_url }}
-                    </pre>
-                </td>
-                <td>
-
-                </td>
-            </tr>
-        {% endfor %}
-    </tbody>
-</table>
+<section class="members">
+  {% for person in persons %}
+    <article>
+      <h2>{{ person.title }}</h2>
+      <p class="message">
+          Aujourd'hui nous vous présentons {{ person.title }}.
+          {{ person.expertise }}
+          {% assign description = person.sections | first %}
+          {{ description.content }}
+          {{ person.url | absolute_url }}
+      </p>
+    </article>
+  {% endfor %}
+</section>
