@@ -35,14 +35,14 @@ permalink: /share
 
 <section class="members">
     <script type="text/javascript">
-        const messages = document.querySelectorAll('.message');
+        var messages = document.querySelectorAll('.message');
         messages.forEach(message => {
             message.addEventListener('click', () => {
                 updateClipboard(message);
             });
         });
         function updateClipboard(message) {
-            const text = message.innerHTML;
+            var text = message.innerHTML;
             navigator.clipboard.writeText(text).then(function() {
                 message.classList.add('is-copied');
             });
