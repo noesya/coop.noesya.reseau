@@ -28,3 +28,24 @@ permalink: /share
     </article>
   {% endfor %}
 </section>
+
+
+<script type="text/javascript">
+    const messages = document.querySelectorAll('.message');
+    messages.forEach(message => {
+        message.addEventListener('click', () => {
+            updateClipboard(message.innerHTML);
+        });
+    });
+    function updateClipboard(newClip) {
+        navigator.clipboard.writeText(newClip).then(function() {
+            message.classList.add('is-copied');
+        });
+    }
+</script>
+
+<style>
+    .message.is-copied {
+        background: rgba(0,0,0,0.1);
+    }
+</style>
