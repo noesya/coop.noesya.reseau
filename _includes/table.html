@@ -11,12 +11,6 @@
     }
 </style>
 
-<script type="text/javascript">
-    document.querySelectorAll("pre").onclick = function (){
-      this.select();
-      document.execCommand('copy');
-    }
-</script>
 
 <section>
     <table>
@@ -32,7 +26,7 @@
                 <tr>
                     <td>{{ person.title }}</td>
                     <td>
-                        <pre>
+                        <pre class="message">
                             Aujourd'hui nous vous présentons {{ person.title }}.
                             {{ person.expertise }}
                             {% assign description = person.sections | first %}
@@ -49,3 +43,23 @@
     </table>
 </section>
 
+
+<script type="text/javascript">
+    const messages = document.querySelectorAll('.message');
+    messages.forEach(message => {
+        message.addEventListener('click', () => {
+            updateClipboard(message.innerHTML);
+        });
+    });
+    function updateClipboard(newClip) {
+        navigator.clipboard.writeText(newClip).then(function() {
+            message.classList.add('is-copied');
+        });
+    }
+</script>
+
+<style>
+    .message.is-copied {
+        background: rgba(0,0,0,0.1);
+    }
+</style>
