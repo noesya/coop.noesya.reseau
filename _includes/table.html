@@ -1,15 +1,19 @@
+<script type="text/javascript">
+    const messages = document.querySelectorAll('.message');
+    messages.forEach(message => {
+        message.addEventListener('click', () => {
+            updateClipboard(message.innerHTML);
+        });
+    });
+    function updateClipboard(newClip) {
+        navigator.clipboard.writeText(newClip).then(function() {
+            message.classList.add('is-copied');
+        });
+    }
+</script>
 
-<section class="members">
-  {% for person in persons %}
-    <article>
-      <h2>{{ person.title }}</h2>
-      <p class="message">
-          Aujourd'hui nous vous présentons {{ person.title }}.
-          {{ person.expertise }}
-          {% assign description = person.sections | first %}
-          {{ description.content }}
-          {{ person.url | absolute_url }}
-      </p>
-    </article>
-  {% endfor %}
-</section>
+<style>
+    .message.is-copied {
+        background: rgba(0,0,0,0.1);
+    }
+</style>
