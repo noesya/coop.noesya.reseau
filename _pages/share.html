@@ -2,3 +2,5 @@
 title: Partages
 permalink: /share
 ---
+{% assign persons = site.persons | sort: 'last_name' %}
+{% include table.html %}

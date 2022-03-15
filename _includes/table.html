@@ -1,0 +1,40 @@
+<style>
+    table {
+        border: 1px solid #000;
+    }
+    thead {
+        background: grey;
+    }
+    td {
+        border-right: 1px solid #000;
+    }
+</style>
+
+<table>
+    <thead>
+        <tr>
+            <th>Prénom Nom</th>
+            <th>Post</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for person in persons %}
+            <tr>
+                <td>{{ person.title }}</td>
+                <td>
+                    <pre>
+                        Aujourd'hui nous vous présentons {{ person.title }}.
+                        {{ person.expertise }}
+                        {% assign description = person.sections | first %}
+                        {{ description.content }}
+                        {{ person.url | absolute_url }}
+                    </pre>
+                </td>
+                <td>
+
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
