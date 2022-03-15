@@ -7,11 +7,15 @@ permalink: /share
 <header>
   <div>
     <h1>{{page.title}}</h1>
-    <p>
-      Cliquez sur les textes pour les copier-coller
-    </p>
+    <p>Cliquez sur les textes pour les copier-coller.</p>
   </div>
 </header>
+
+<section class="toc">
+  <ol role="navigation">
+    <li>{% include search.html %}</li>
+  </ol>
+</section>
 
 <section class="members">
   {% assign persons = site.persons | sort: 'last_name' %}
