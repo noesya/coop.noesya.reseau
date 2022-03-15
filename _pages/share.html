@@ -36,8 +36,8 @@ permalink: /share
 <section class="members">
     <script type="text/javascript">
         var messages = document.querySelectorAll('.message');
-        messages.forEach(message => {
-            message.addEventListener('click', () => {
+        messages.forEach(function(message) {
+            message.addEventListener('click', function() {
                 updateClipboard(message);
             });
         });
