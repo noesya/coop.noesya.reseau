@@ -1,6 +1,6 @@
 ---
 title: Partages
-class: index
+class: index share
 layout: default
 permalink: /share
 ---
@@ -33,23 +33,19 @@ permalink: /share
   {% endfor %}
 </section>
 
-<script type="text/javascript">
-    const messages = document.querySelectorAll('.message');
-    messages.forEach(message => {
-        message.addEventListener('click', () => {
-            updateClipboard(message);
+<section class="members">
+    <script type="text/javascript">
+        const messages = document.querySelectorAll('.message');
+        messages.forEach(message => {
+            message.addEventListener('click', () => {
+                updateClipboard(message);
+            });
         });
-    });
-    function updateClipboard(message) {
-        const text = message.innerHTML;
-        navigator.clipboard.writeText(text).then(function() {
-            updateClipboard(message.innerHTML);
-        });
-    };
-</script>
-
-<style>
-    .message.is-copied {
-        background: rgba(0,0,0,0.1);
-    }
-</style>
+        function updateClipboard(message) {
+            const text = message.innerHTML;
+            navigator.clipboard.writeText(text).then(function() {
+                message.classList.add('is-copied');
+            });
+        };
+    </script>
+</section>
