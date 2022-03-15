@@ -1,6 +1,7 @@
 <style>
     table {
         border: 1px solid #000;
+        grid-column: 1/12;
     }
     thead {
         background: grey;
@@ -10,31 +11,34 @@
     }
 </style>
 
-<table>
-    <thead>
-        <tr>
-            <th>Prénom Nom</th>
-            <th>Post</th>
-            <th>Date</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for person in persons %}
+<section>
+    <table>
+        <thead>
             <tr>
-                <td>{{ person.title }}</td>
-                <td>
-                    <pre>
-                        Aujourd'hui nous vous présentons {{ person.title }}.
-                        {{ person.expertise }}
-                        {% assign description = person.sections | first %}
-                        {{ description.content }}
-                        {{ person.url | absolute_url }}
-                    </pre>
-                </td>
-                <td>
-
-                </td>
+                <th>Prénom Nom</th>
+                <th>Post</th>
+                <th>Date</th>
             </tr>
-        {% endfor %}
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            {% for person in persons %}
+                <tr>
+                    <td>{{ person.title }}</td>
+                    <td>
+                        <pre>
+                            Aujourd'hui nous vous présentons {{ person.title }}.
+                            {{ person.expertise }}
+                            {% assign description = person.sections | first %}
+                            {{ description.content }}
+                            {{ person.url | absolute_url }}
+                        </pre>
+                    </td>
+                    <td>
+    
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</section>
+
