@@ -2,12 +2,12 @@
 title: Marion Hue
 last_name: Hue
 portrait: /assets/images/persons/marion-hue.jpg
-expertise: Brand manager, Ysé
+expertise: Planneur stratégique
 categories: [strategie]
 sections:
   - title: Identité
     content: >
-        Brand manager, Ysé
+        Planneur stratégique
 
 
         Après avoir travaillé 5 ans en stratégie de marque et tendances au sein du département Communication des Galeries Lafayette, j’accompagne aujourd'hui les marques dans leurs enjeux de positionnement et d'image.
@@ -31,6 +31,5 @@ sections:
         STRATÉGIE DE MARQUE : Analyse du positionnement de marque, benchmark, identification d’insights clés pour élaborer des recommandations stratégiques, plateformes de marque, concepts créatifs.
   - title: Contact
     content: >
-        <a href="https://yse-paris.com/" target="_blank" rel="noreferrer">Ysé</a> –
         <a href="mailto:marion.hue@hotmail.fr" target="_blank" rel="noreferrer">Mail</a>
 ---
