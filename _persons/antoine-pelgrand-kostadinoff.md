@@ -7,7 +7,7 @@ categories: [design]
 sections:
   - title: Identité
     content: >
-        Design Director at Dogstudio
+        Creative director at Hello Monday
 
   - title: Contact
     content: >
