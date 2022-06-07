@@ -11,4 +11,8 @@ sections:
   - title: Contact
     content: >
         <a href="mailto:xavier.sense@parisdescartes.fr" target="_blank" rel="noreferrer">Mail</a>
+quote:
+    from: arnaud
+    text: >
+        J'ai la plus grande estime pour Xavier, à la fois pour son excellente vision stratégique et pédagogique, pour son engagement sincère au service de l'Université et pour ses grandes qualités humaines.  
 ---
