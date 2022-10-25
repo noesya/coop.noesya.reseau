@@ -1,6 +1,6 @@
 ---
 title: Communication et démocratie
-portrait: /assets/images/organizations/tmp.png
+portrait: /assets/images/organizations/communication-democratie.png
 categories: [ethique]
 sections:
   - title: Identité
