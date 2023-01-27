@@ -1,9 +1,9 @@
-<nav class="menu" aria-label="Navigation principale">
+<nav class="menu" aria-label="Navigation principale" aria-hidden="true">
   <ul>
     {% assign categories = site.categories | sort: 'position' %}
     {% for category in categories %}
       <li>
-        <a href="{{category.url}}">{{category.title}}</a>
+        <a href="{{category.url}}" tabindex="-1">{{category.title}}</a>
       </li>
     {% endfor %}
   </ul>
