@@ -15,5 +15,5 @@ sections:
 quote:
     from: pa
     text: >
-        Après avoir appris à connaître Nadine nous ne voulions personne d'autre pour s'occuper de noesya ! Et Nadine a en plus acdepté de faire partie de notre <a href="https://gouvernance.noesya.coop/comite-strategique" target="_blank" rel="noreferrer">comité stratégique</a>.
+        Après avoir appris à connaître Nadine nous ne voulions personne d'autre pour s'occuper de noesya ! Et Nadine a en plus accepté de faire partie de notre <a href="https://gouvernance.noesya.coop/comite-strategique" target="_blank" rel="noreferrer">comité stratégique</a>.
 ---
