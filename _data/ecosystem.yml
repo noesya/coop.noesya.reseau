@@ -11,6 +11,8 @@ sites:
       url: https://reseau.noesya.coop
     - title: works
       url: https://works.noesya.coop
+    - title: sane
+      url: https://sane.noesya.coop
     - title: histoires
-    - title: stack
-    - title: méthode
+    # - title: stack
+    # - title: méthode
