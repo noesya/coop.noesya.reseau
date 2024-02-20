@@ -12,7 +12,7 @@ sections:
         Directeur du Media Design Lab de l'Ecole de Design de Nantes, co-président des Designers Éthiques
 
 
-        Je finis actuellement mon doctorant en sciences de l’information et de la communication à l’université des technologies de Compiègne, au sein du laboratoire Costech.
+        Je finis actuellement mon doctorat en sciences de l’information et de la communication à l’université des technologies de Compiègne, au sein du laboratoire Costech.
 
 
         Mon doctorat porte sur la modélisation des données culturelles, et la modélisation de la gestion des oeuvres au sein des logiciels documentaires. J'ai effectué cette thèse en convention CIFRE dans la société d’ingénierie documentaire Decalog où j'ai été ingénieur de recherche, en charge des projets de R&D orientés sur les musées. J'ai notamment développé le projet OCAPI, un captcha pour l'indexation du patrimoine culturel
