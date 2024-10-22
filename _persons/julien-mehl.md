@@ -8,7 +8,7 @@ categories: [strategie]
 sections:
   - title: Identité
     content: >
-        8 années d’expérience en agences web, étoffées à travers des responsabilités complémentaires (gestion puis direction de projets, conseil UX & UI, direction des opérations) et pour une large palette de grands comptes dans différents secteurs d’activité (LVMH, Engie, Groupe PSA, Bouygues Telecom, etc.) m’ont apporté de solides compétences en matière de projets numériques.
+        Plus de 10 années d’expérience en agences web, étoffées à travers des responsabilités complémentaires (gestion puis direction de projets, conseil UX & UI, direction des opérations) et pour une large palette de grands comptes dans différents secteurs d’activité (LVMH, Engie, Groupe PSA, Bouygues Telecom, etc.) m’ont apporté de solides compétences en matière de projets numériques.
 
 
         Aujourd’hui indépendant, j’offre mes services dans plusieurs domaines allant de la direction de projets au conseil UX et à l’AMOA.
