@@ -11,7 +11,7 @@ sections:
         Après 8 ans à travailler en agences, ayant été développeur, chef de projet, UX designer et directeur de production, je me concentre depuis 2015 sur des missions UX, en freelance. 
 
 
-        Je met mon empathie, mes capacités d'écoute, mon intuition et mes connaissances de l'ensemble de la chaine de production d'un projet aux services des gens avec qui je travaille.
+        Je mets mon empathie, mes capacités d'écoute, mon intuition et mes connaissances de l'ensemble de la chaine de production d'un projet aux services des gens avec qui je travaille.
 
 
         Je fais de la recherche utilisateur (interviews, double écoute, tests utilisateurs...), j'organise et anime des ateliers de conception, je réalise des parcours utilisateurs, des wireframes, des prototypes, et je peux faire de l'UI sur la base d'une DA ou d'un design system déjà posé.
