@@ -2,7 +2,7 @@
 title: Nicolas Paries
 last_name: Paries
 portrait: /assets/images/persons/nicolas-paries.jpg
-expertise: Co-Founder at Hey Low. Low-carbon designer.
+expertise: Co-Founder at Hey Low. Low‑carbon designer.
 organization:
 categories:
     - design
@@ -11,7 +11,7 @@ categories:
 sections:
   - title: Identité
     content: >
-        Co-Founder at <a href="/organisations/hey-low">Hey Low</a>. Low-carbon designer.
+        Co-Founder at <a href="/organisations/hey-low">Hey Low</a>. Low‑carbon designer.
 
 
         _ Creative Direction and Brand Strategy
