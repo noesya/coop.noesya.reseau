@@ -2,7 +2,7 @@
 title: Énora Denis
 last_name: Denis
 portrait: /assets/images/persons/enora-denis.jpg
-expertise: Directrice de projets 360
+expertise: Directrice artistique
 validated: true
 categories: [design]
 sections:
