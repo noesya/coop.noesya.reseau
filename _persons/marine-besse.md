@@ -3,7 +3,7 @@ title: Marine Besse
 last_name: Besse
 portrait: /assets/images/persons/marine-besse.jpg
 expertise: UX research ~ Études en sciences sociales
-categories: [design]
+categories: [recherche]
 sections:
   - title: Identité
     content: >
