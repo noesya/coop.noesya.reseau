@@ -13,6 +13,5 @@ sites:
       url: https://works.noesya.coop
     - title: sane
       url: https://sane.noesya.coop
-    - title: histoires
-    # - title: stack
-    # - title: méthode
+    - title: maison
+      url: https://maison.noesya.coop
