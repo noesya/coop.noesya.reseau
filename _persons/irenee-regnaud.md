@@ -10,8 +10,11 @@ categories:
 sections:
   - title: Identité
     content: >
-        Consultant dans la "transition numérique", blogueur et essayiste, chercheur associé à l'UTC, et co-fondateur de l'association Le Mouton Numérique.
-        Auteur de "Technologies partout, démocratie nulle part. Plaidoyer pour que les choix technologiques deviennent l'affaire de tous", chez FYP Editions.
+        Irénée Régnauld est doctorant en sociologie à l'EHESS/INSA, ses recherches portent sur l'appropriation des questions éthiques dans le domaine de l'intelligence artificielle dans les milieux économiques. Son autre domaine de recherche porte sur les politiques spatiales dans leurs composantes socio-historiques.
+        
+
+        Ancien consultant, il est également cofondateur de l'association technocritique “Le Mouton Numérique” et tient depuis 2014 le blog “Mais où va le web ?”. Il est l'auteur de *Une histoire de la conquête spatiale. Des fusées nazies aux astrocapitalistes du New Space* (La Fabrique, 2024, avec Arnaud Saint-Martin) et *Technologies partout, démocratie nulle part. Plaidoyer pour que les choix technologiques deviennent l'affaire de tous* (FYP, 2020, avec Yaël Benayoun).
+
   - title: Contact
     content: >
         <a href="https://maisouvaleweb.fr/" target="_blank" rel="noreferrer">Site</a> –
