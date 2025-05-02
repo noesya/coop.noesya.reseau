@@ -15,6 +15,5 @@ sections:
 
   - title: Contact
     content: >
-        <a href="https://www.linkedin.com/in/audrey-dos-santos-4539b414/" target="_blank" rel="noreferrer">LinkedIn</a> –
-        <a href="mailto:hello@wodniack.dev" target="_blank" rel="noreferrer">Mail</a>
+        <a href="https://www.linkedin.com/in/audrey-dos-santos-4539b414/" target="_blank" rel="noreferrer">LinkedIn</a>
 ---

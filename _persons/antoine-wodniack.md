@@ -8,13 +8,13 @@ categories: [tech]
 sections:
   - title: Identité
     content: >
-        Senior Front-End Developper with 10+ years and 120+ projects experience on Web development. I work in collaboration with Web Designers to integrate their designs flawlessly with a nice touch of animation.
+        Creative Developer with 15+ years and 140+ projects, specializing in animation-driven, high-impact websites. I collaborate with agencies and designers to craft memorable user experiences, bringing their vision to life with a nice touch of animation.
 
 
-        Current stack: CSS, JS, GSAP, WordPress, NuxtJS.
-
+        Additionally, I team up with other developers at <a href="https://incredibles.dev" target="_blank" rel="noreferrer">incredibles.dev</a> to offer extended development capabilities.
   - title: Contact
     content: >
         <a href="https://wodniack.dev" target="_blank" rel="noreferrer">Site</a> –
+        <a href="https://incredibles.dev" target="_blank" rel="noreferrer">incredibles.dev</a> –
         <a href="mailto:hello@wodniack.dev" target="_blank" rel="noreferrer">Mail</a>
 ---
