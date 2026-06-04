@@ -2,16 +2,17 @@
 title: Patricia Roche
 last_name: Roche
 portrait: /assets/images/persons/patricia-roche.jpg
-expertise: Chargée de mission analyse et veille internationale
+expertise: Chargée de mission recherche Société et Ville Durable
+
 categories:
-    - ethique
-    - strategie
+    - recherche
 sections:
   - title: Identité
     content: >
-        Chargée de mission analyse et veille internationale, 
-        Ministère de la Transition écologique et solidaire
+        Chargée de mission recherche Société et Ville Durable, 
+        Ministères Ecologie, Territoire, Transports, Ville et Logement 
+
   - title: Contact
     content: >
-        <a href="https://twitter.com/Patriciar0che" target="_blank" rel="noreferrer">Twitter</a>
+        <a href="https://www.patriciaroche.fr" target="_blank" rel="noreferrer">Site</a>
 ---
