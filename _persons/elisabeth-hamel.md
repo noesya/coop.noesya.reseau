@@ -1,7 +1,7 @@
 ---
-title: Elisabeth
+title: Elisabeth Hamel
 last_name: Hamel
-portrait: /assets/images/persons/elisabeth-hamel.jpg
+portrait: /assets/images/persons/elisabeth-hamel.jpeg
 expertise: Creative Front-End Developer
 categories: [tech]
 sections:
