@@ -15,5 +15,5 @@ sections:
 quote:
     from: alex
     text: >
-        Elisabeth crée des sites expérientiels et interactifs aussi dynamique où l'on retrouve son dynamisme naturel !
+        Elisabeth crée des sites expérientiels et interactifs, on y retrouve son dynamisme naturel !
 ---
