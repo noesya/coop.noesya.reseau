@@ -7,7 +7,7 @@ categories: [tech]
 sections:
   - title: Identité
     content: >
-        Elisabeth développe des sites internet hautement interactif !
+        Elisabeth est développeuse créative. Elle accompagne ses clients de la conception à la livraison des sites internet. En plus de développer les sites, elle fait également du design d'interface et de la gestion de projet.
   - title: Contact
     content: >
         <a href="https://www.e-hamel.com/" target="_blank" rel="noreferrer">Site</a>
